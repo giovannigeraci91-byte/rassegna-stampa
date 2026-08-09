@@ -730,6 +730,26 @@ h1{
     return '<section class="block">' + html + '</section>';
   }
 
+  /* Market mover e risk sentiment chiudono il markdown ma sono la lettura
+     più urgente: vengono risaliti sopra la prima sezione numerata, subito
+     sotto "Le tre cose che contano oggi". Cambia solo la posizione in pagina:
+     il parsing di oggi.md e il markup delle due sezioni restano identici. */
+  var LIFTED = ['mover', 'risk'];
+
+  function arrange(entries){
+    var lifted = entries.filter(function(e){ return LIFTED.indexOf(e.kind) > -1; });
+    if (!lifted.length) return entries;
+
+    lifted.sort(function(a, b){ return LIFTED.indexOf(a.kind) - LIFTED.indexOf(b.kind); });
+
+    var rest = entries.filter(function(e){ return LIFTED.indexOf(e.kind) < 0; });
+    var at = 0;
+    for (var i = 0; i < rest.length; i++){
+      if (rest[i].kind === 'top3'){ at = i + 1; break; }
+    }
+    return rest.slice(0, at).concat(lifted, rest.slice(at));
+  }
+
   function render(doc, iso){
     var dayDate = doc.dayDate || labelForISO(iso);
     var bits = ['Desk Intelligence'];
@@ -737,7 +757,7 @@ h1{
     if (doc.time) bits.push(doc.time + ' CET');
     eyebrow.textContent = bits.join(' · ');
 
-    var html = '';
+    var entries = [];
     var n = 0;
 
     for (var i = 0; i < doc.sections.length; i++){
@@ -748,13 +768,18 @@ h1{
       n++;
       var parts = headingParts(sec.heading, n);
       var kind = kindOf(parts.title);
+      var markup;
 
-      if (kind === 'top3')       html += renderTop3(parts, blocks);
-      else if (kind === 'agenda')html += renderAgenda(parts, blocks);
-      else if (kind === 'mover') html += renderMover(parts, blocks);
-      else if (kind === 'risk')  html += renderRisk(parts, blocks);
-      else                       html += renderStandard(parts, blocks);
+      if (kind === 'top3')       markup = renderTop3(parts, blocks);
+      else if (kind === 'agenda')markup = renderAgenda(parts, blocks);
+      else if (kind === 'mover') markup = renderMover(parts, blocks);
+      else if (kind === 'risk')  markup = renderRisk(parts, blocks);
+      else                       markup = renderStandard(parts, blocks);
+
+      if (markup) entries.push({ kind: kind, html: markup });
     }
+
+    var html = arrange(entries).map(function(e){ return e.html; }).join('');
 
     if (!html){
       showNotice('Rassegna', 'Contenuto non leggibile',
