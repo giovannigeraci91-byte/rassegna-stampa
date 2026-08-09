@@ -599,10 +599,11 @@ h1{
     return out;
   }
 
-  function headingParts(heading, fallbackIndex){
-    var m = heading.match(/^(\d+)\s*[.)]\s*(.+)$/);
-    if (m) return { num: String(m[1]).padStart(2, '0'), title: m[2].trim() };
-    return { num: String(fallbackIndex).padStart(2, '0'), title: heading };
+  /* Il numero del markdown viene scartato: la sezione è numerata in base alla
+     posizione che occupa in pagina, assegnata dopo il riordino. */
+  function headingTitle(heading){
+    var m = heading.match(/^\d+\s*[.)]\s*(.+)$/);
+    return m ? m[1].trim() : heading;
   }
 
   function kindOf(title){
@@ -758,28 +759,27 @@ h1{
     eyebrow.textContent = bits.join(' · ');
 
     var entries = [];
-    var n = 0;
 
     for (var i = 0; i < doc.sections.length; i++){
       var sec = doc.sections[i];
       var blocks = toBlocks(sec.lines);
       if (!blocks.length) continue;            /* sezione assente/vuota: non si renderizza */
 
-      n++;
-      var parts = headingParts(sec.heading, n);
-      var kind = kindOf(parts.title);
-      var markup;
-
-      if (kind === 'top3')       markup = renderTop3(parts, blocks);
-      else if (kind === 'agenda')markup = renderAgenda(parts, blocks);
-      else if (kind === 'mover') markup = renderMover(parts, blocks);
-      else if (kind === 'risk')  markup = renderRisk(parts, blocks);
-      else                       markup = renderStandard(parts, blocks);
-
-      if (markup) entries.push({ kind: kind, html: markup });
+      var title = headingTitle(sec.heading);
+      entries.push({ kind: kindOf(title), title: title, blocks: blocks });
     }
 
-    var html = arrange(entries).map(function(e){ return e.html; }).join('');
+    /* Prima si decide l'ordine, poi si numera: le sezioni portano sempre
+       la loro posizione effettiva in pagina, senza salti. */
+    var html = arrange(entries).map(function(e, index){
+      var parts = { num: String(index + 1).padStart(2, '0'), title: e.title };
+
+      if (e.kind === 'top3')   return renderTop3(parts, e.blocks);
+      if (e.kind === 'agenda') return renderAgenda(parts, e.blocks);
+      if (e.kind === 'mover')  return renderMover(parts, e.blocks);
+      if (e.kind === 'risk')   return renderRisk(parts, e.blocks);
+      return renderStandard(parts, e.blocks);
+    }).join('');
 
     if (!html){
       showNotice('Rassegna', 'Contenuto non leggibile',
