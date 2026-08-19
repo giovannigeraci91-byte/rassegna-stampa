@@ -497,6 +497,15 @@ h1{
 
   function todayISO(){ return isoOf(new Date()); }
 
+  /* L'archivio conserva solo oggi + 6 giorni precedenti (vedi
+     .github/workflows/prune-archivio.yml): il picker non fa scegliere
+     date sicuramente assenti. */
+  function oldestArchivedISO(){
+    var d = new Date();
+    d.setDate(d.getDate() - 6);
+    return isoOf(d);
+  }
+
   function capitalize(s){ return s ? s.charAt(0).toUpperCase() + s.slice(1) : s; }
 
   function labelForISO(iso){
@@ -891,6 +900,7 @@ h1{
   }
 
   picker.max = todayISO();
+  picker.min = oldestArchivedISO();
 
   picker.addEventListener('change', function(){
     var iso = picker.value;

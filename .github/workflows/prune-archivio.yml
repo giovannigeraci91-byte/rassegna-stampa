@@ -1,0 +1,49 @@
+name: Pulizia archivio rassegna
+
+on:
+  schedule:
+    # 06:30 UTC, poco dopo la Routine editoriale delle 06:00 UTC che scrive
+    # oggi.md e archivio/AAAA-MM-GG.md. I due job sono indipendenti: questo
+    # rimuove solo ciò che è già più vecchio della finestra di conservazione.
+    - cron: '30 6 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  prune:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Rimuovi le rassegne d'archivio più vecchie di 7 giorni
+        id: prune
+        run: |
+          set -euo pipefail
+          # Finestra di conservazione: oggi + 6 giorni precedenti (7 file totali).
+          cutoff="$(date -u -d '6 days ago' +%F)"
+          echo "Conservo da $cutoff in poi, elimino le date precedenti."
+
+          deleted=0
+          shopt -s nullglob
+          for f in archivio/*.md; do
+            base="$(basename "$f" .md)"
+            if [[ "$base" =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2}$ ]]; then
+              if [[ "$base" < "$cutoff" ]]; then
+                git rm -q -- "$f"
+                deleted=$((deleted + 1))
+              fi
+            fi
+          done
+
+          echo "deleted=$deleted" >> "$GITHUB_OUTPUT"
+
+      - name: Commit e push, solo se qualcosa è stato rimosso
+        if: steps.prune.outputs.deleted != '0'
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git commit -m "Pulizia archivio: rimosse ${{ steps.prune.outputs.deleted }} rassegne più vecchie di 7 giorni"
+          git push origin HEAD:main
