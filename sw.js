@@ -30,15 +30,22 @@ self.addEventListener('fetch', (event) => {
   const url = new URL(req.url);
   if (url.origin !== self.location.origin) return;
 
+  // Mette in cache solo risposte riuscite: un 404 (es. archivio non ancora
+  // pubblicato, asset mancante durante un deploy) non deve restare in cache
+  // come falso fallback offline.
+  function cacheIfOk(req, res){
+    if (res.ok) {
+      const copy = res.clone();
+      caches.open(CACHE).then((c) => c.put(req, copy)).catch(() => undefined);
+    }
+    return res;
+  }
+
   // Markdown: sempre rete per primo, cache solo come rete di sicurezza offline.
   if (url.pathname.endsWith('.md')) {
     event.respondWith(
       fetch(req)
-        .then((res) => {
-          const copy = res.clone();
-          caches.open(CACHE).then((c) => c.put(req, copy)).catch(() => undefined);
-          return res;
-        })
+        .then((res) => cacheIfOk(req, res))
         .catch(() => caches.match(req).then((hit) => hit || Promise.reject(new Error('offline'))))
     );
     return;
@@ -47,11 +54,7 @@ self.addEventListener('fetch', (event) => {
   // Guscio dell'app: rete per primo con fallback su cache.
   event.respondWith(
     fetch(req)
-      .then((res) => {
-        const copy = res.clone();
-        caches.open(CACHE).then((c) => c.put(req, copy)).catch(() => undefined);
-        return res;
-      })
+      .then((res) => cacheIfOk(req, res))
       .catch(() => caches.match(req).then((hit) => hit || caches.match('./index.html')))
   );
 });

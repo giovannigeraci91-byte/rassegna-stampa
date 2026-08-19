@@ -22,7 +22,9 @@ jobs:
         run: |
           set -euo pipefail
           # Finestra di conservazione: oggi + 6 giorni precedenti (7 file totali).
-          cutoff="$(date -u -d '6 days ago' +%F)"
+          # "Oggi" è il giorno civile a Europe/Rome, lo stesso calendario usato
+          # dal picker di index.html, così le due finestre restano allineate.
+          cutoff="$(TZ='Europe/Rome' date -d '6 days ago' +%F)"
           echo "Conservo da $cutoff in poi, elimino le date precedenti."
 
           deleted=0
