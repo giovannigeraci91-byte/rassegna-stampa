@@ -1,103 +1,108 @@
 # Rassegna Stampa — Giovedì 20 agosto 2026
-*Redazione chiusa alle ore 07:45 CEST*
+*Edizione aggiornata alle ore 14:30 CEST (12:30 UTC) — mercati europei in seduta, apertura Wall Street alle 15:30 CEST*
 
 ---
 
 ## 1. LE TRE COSE CHE CONTANO OGGI
 
-- **Gli Emirati sospendono tutti gli scambi commerciali e finanziari con l'Iran "fino a nuovo avviso"**, dopo che due missili balistici lanciati da Teheran sono caduti nelle acque territoriali emiratine martedì sera; il Brent è risalito verso i 92 dollari, massimo delle ultime quattro settimane [Reuters/CNN, 19-20 ago]. La decisione colpisce il principale hub di re-export che ha finora aiutato l'Iran ad assorbire l'urto delle sanzioni.
-- **Trump sospende per tre giorni (fino al 21 agosto) i dazi al 50% su 20 miliardi di dollari di importazioni canadesi**, dopo un'intesa di massima con Ottawa che ridurrebbe le tariffe su acciaio e alluminio al 25% e quelle sulle auto al 15%; nessuna delle due parti ha ancora confermato i dettagli finali dell'accordo [Bloomberg/NPR, 19 ago] **[non confermato nei dettagli]**.
-- **Il Tesoro USA raddoppia i buyback sui Treasury a lunga scadenza per calmierare i rendimenti**, dopo che il trentennale aveva toccato il 5,33%, massimo in 19 anni; l'intervento ha riportato il 30 anni al 5,20% e il 10 anni al 4,64%, permettendo a S&P 500 (+0,21% a 7.708) e Nasdaq (+0,16% a 26.331) di interrompere tre sedute consecutive in rosso [CNBC/Bloomberg, 18-19 ago].
+- **La notte più pesante della guerra su Kyiv**: un attacco russo combinato con circa 74 missili balistici e da crociera e 496 droni ha colpito la capitale ucraina, danneggiando un ospedale pediatrico ed edifici residenziali; il bilancio è ancora in aggiornamento e discordante — tra 12 e 21 morti e oltre 85-150 feriti a seconda della fonte [Zelensky/servizi d'emergenza ucraini, CNN/CBS News/Al Jazeera, 20 ago]. Mosca respinge ogni proposta di tregua limitata nel Mar Nero: le prospettive negoziali si allontanano ulteriormente.
+- **Golfo sotto tensione: Iran nega l'accusa emiratina e ribadisce la chiusura di Hormuz.** Teheran ha bollato come "false flag" l'accusa degli Emirati sui missili caduti nelle proprie acque martedì; Trump ha confermato che non ci sono negoziati in corso e che il blocco navale USA resta operativo [Al Jazeera/CNN liveblog, 19-20 ago]. Il Brent è salito verso 93-95 dollari, quarto rialzo consecutivo (+4% settimanale) [Bloomberg/CNBC, 20 ago].
+- **Il Tesoro USA raddoppia i buyback sul debito lungo e indebolisce il dollaro su tutto il board.** Dopo che il trentennale aveva toccato il 5,33-5,34%, massimo dal 2007, l'annuncio (in vigore dal 9 settembre) ha riportato il rendimento sotto il 5,2%; il Dollar Index è sceso a 98,72, minimo da metà maggio, e l'EUR/USD è salito a 1,1692-1,17 da 1,1607 di stamattina [CNBC/Bloomberg/FXStreet, 19-20 ago]. L'effetto si è propagato all'azionario asiatico, in forte rialzo.
 
 ---
 
 ## 2. GEOPOLITICA E POLICY
 
-**Golfo: l'Iran sempre più isolato.** Trump ha escluso qualunque negoziato in corso con Teheran e ha minacciato "conseguenze economiche tremende" per chi sostiene l'Iran, dopo aver già accusato l'Oman di essere stato "disonesto" nella mediazione ed escluso dal ruolo di intermediario; il blocco navale USA sui porti iraniani resta formalmente in vigore [Haaretz/CNN, 19-20 ago]. *La conseguenza diretta è l'estensione del rischio a un quarto attore regionale (dopo Oman ed Emirati), con i premi assicurativi marittimi nel Golfo che restano strutturalmente elevati.*
+**Ucraina: escalation, non de-escalation.** Oltre all'attacco su Kyiv, l'ex ministro Mykhailo Fedorov ha pubblicamente chiesto elezioni in tempo di guerra, parlando di "crisi sistemica di governance" — una spaccatura interna che emerge proprio mentre Washington preme per un voto nel 2026 [Al Jazeera, 18-19 ago]. *La pressione militare e quella politica interna si sommano, indebolendo la posizione negoziale di Kyiv nel momento peggiore.*
 
-**Siria-Israele-Turchia.** Otto raid israeliani hanno colpito martedì una base aerea nella Siria nord-occidentale; Netanyahu ha giustificato l'attacco con un presunto imminente dispiegamento di truppe turche, che Damasco nega categoricamente ("nessun build-up militare turco alla base"); l'inviato USA per la regione ha definito l'operazione "un'escalation non necessaria" [Times of Israel/Axios, 19-20 ago]. *Il rischio è un deterioramento dei rapporti Ankara-Gerusalemme proprio mentre la Turchia gioca un ruolo di mediazione su più fronti regionali.*
+**Israele-Turchia-USA: frattura diplomatica dopo Idlib.** Il raid israeliano sulla base di Abu al-Duhur per impedire un presunto dispiegamento turco ha provocato condanne da Qatar, Egitto e Arabia Saudita, e critiche interne a Netanyahu dall'opposizione israeliana [Axios/JPost/NPR, 18-19 ago]. *Rischio di un deterioramento duraturo dei rapporti Ankara-Gerusalemme che complica la mediazione su più fronti regionali.*
 
-**Ucraina.** Nella notte del 19 agosto un attacco russo con droni sulla sede della polizia di Zhytomyr ha ucciso 2 persone e ferito almeno 20; Kyiv ha colpito in risposta un centro missilistico-spaziale e uno stabilimento aeronautico nell'oblast russo di Samara [wire, 19 ago]. *Nessun segnale di progresso sui negoziati territoriali su Donetsk-Luhansk: il conflitto resta un fattore di rischio energetico strutturale, non episodico.*
+**Canada-USA: tregua tariffaria non ancora un accordo.** La sospensione di tre giorni sui dazi al 50% (20 miliardi di dollari di import) scade domani, 21 agosto; restano irrisolti auto, latticini, alcolici e supply management agricolo, che Ottawa vuole protetto [Washington Post/BNN Bloomberg, 19 ago]. *Le filiere nordamericane restano in attesa prima di ripianificare gli approvvigionamenti oltre il breve termine.*
 
 ---
 
 ## 3. MACRO E BANCHE CENTRALI
 
-**Fed: dissensi record e independence risk in aumento.** Le minute del FOMC del 28-29 luglio, pubblicate ieri, confermano tre dissensi hawkish (Logan, Hammack, Kashkari, tutti a favore di un rialzo) — il numero più alto dal 2016. Sullo sfondo, la Casa Bianca ha fissato al 26 agosto la scadenza per la governatrice Lisa Cook per rispondere alle accuse di frode ipotecaria alla base del nuovo tentativo di rimozione, dopo che la Corte Suprema a giugno le aveva impedito di essere licenziata senza il dovuto processo [SCOTUSblog/CBS, 5-19 ago]. *Conseguenza: la settimana di Jackson Hole (27-29 agosto), con il primo discorso da chair di Kevin Warsh, diventa doppiamente cruciale — sulla policy e sulla percezione di indipendenza dell'istituzione.*
+**Indipendenza Fed sotto nuova pressione.** Quattro senatori democratici hanno chiesto al chair Kevin Warsh di rendere pubbliche le telefonate con Trump, dopo che il WSJ ha riportato contatti periodici non risultanti nei calendari ufficiali; la Casa Bianca nega pressioni sui tassi [investinglive.com/cryptotimes.io, 19-20 ago] **[da confermare su fonte primaria]**. *Jackson Hole (27-29 agosto) arriva con lo scrutinio sull'indipendenza dell'istituzione ancora più alto.*
 
-**Giappone: BoJ e carry trade sotto osservazione.** Dopo il rialzo dei tassi allo 0,75-1,0%, gli hedge fund globali hanno portato le posizioni ribassiste sullo yen ai massimi storici; Morgan Stanley stima ancora 500 miliardi di dollari di posizioni di carry trade in essere, un differenziale di tasso in restringimento che rende il trade sempre più fragile [OMFIF, ago]. Stasera (19:30 JST) è atteso il CPI giapponese di luglio. *Un dato sopra attese potrebbe accelerare la normalizzazione BoJ e innescare un disordinato unwind del carry, con effetti a cascata su equity ed FX globali.*
+**Tesoro USA: intervento diretto sul costo del debito.** L'asta a 20 anni da 16 miliardi di dollari del 19 agosto ha fruttato un rendimento del 5,204%, il più alto dalla reintroduzione della scadenza nel 2020, con il deficit FY2026 stimato dal CBO a 2.100 miliardi di dollari [Bloomberg, 16-20 ago]. Il mercato ora prezza solo il 31% di probabilità di un rialzo Fed a settembre (contro i due terzi post-minute), dopo il forte miss sui payroll di luglio; CME FedWatch assegna il 65,4% a un hold [CME/Bloomberg, 19 ago].
 
-**Cina: PBoC frena la corsa dello yuan.** Dopo che la valuta cinese ha toccato il massimo in oltre tre anni contro il dollaro, la banca centrale ha fissato un fixing più debole delle attese (598 pips sotto il consensus Bloomberg) per rallentarne l'apprezzamento, iniettando al contempo 349 miliardi di yuan (51,7 mld $) in pronti contro termine overnight — la prima operazione di metà mese di questo tipo [Bloomberg, 20 ago]. *Segnale di disagio verso un'eccessiva forza valutaria mentre l'economia interna resta debole: Pechino vuole competitività per l'export, non un'appreziazione trainata da flussi speculativi.*
+**PBoC ferma, Giappone in attesa.** La banca centrale cinese ha lasciato invariato il LPR (1 anno 3,00%, 5+ anni 3,50%) per il 15° mese consecutivo e ha fissato un fixing yuan 598 pips più debole delle attese, continuando a frenare l'apprezzamento dopo che la valuta offshore ha toccato i massimi in tre anni [Bloomberg/PBoC, 20 ago]. Il CPI giapponese di luglio non è ancora uscito (atteso domani); il Tokyo CPI core è salito al 2,0% da 1,9%, segnale di possibile sorpresa al rialzo [Statistics Bureau, proxy].
 
 ---
 
 ## 4. MERCATI
 
-**Wall Street interrompe la serie negativa.** S&P 500 +0,21% a 7.708 punti, Nasdaq +0,16% a 26.331: il rally del Tesoro sui rendimenti e il balzo di Moderna (+176%, si veda sezione 7) hanno permesso di chiudere tre sedute consecutive di ribasso legate al sell-off sui semiconduttori e ai timori sul term premium [Yahoo Finance/CNBC, 19 ago].
+**Asia in forte rimbalzo, Corea protagonista.** Il Kospi ha chiuso a +5,89% (6.852,58 punti, sidecar attivato), con SK Hynix +12,73% e Samsung +9,49% su piani di buyback monstre; Nikkei +1,3% sopra 66.000, Topix +0,8% a 4.045, Hang Seng +1,34% a circa 25.837 [Korea Times/Reuters/tradingeconomics, 20 ago]. *Il driver comune è il ripiegamento dei rendimenti USA dopo l'annuncio del Tesoro.*
 
-**Asia rimbalza con forza dopo il crollo di martedì.** Il Nikkei ha chiuso a 66.096 punti (+1,18%, Topix +0,78%); il Kospi ha recuperato circa il 6% (Kosdaq +2,16%) dopo il circuit breaker di martedì innescato dal tracollo dei semiconduttori (SK Hynix -8,7%, Samsung -7,1% nella seduta precedente); Hang Seng +1,1%, CSI300 +0,2% [Reuters/tradingeconomics, 20 ago]. *La lettura di mercato è che l'annuncio dei buyback sul Tesoro USA ha tolto pressione immediata ai rendimenti globali, alleggerendo lo sconto sui titoli growth/AI.*
+**Europa mista a metà seduta.** Stoxx 600 sostanzialmente piatto (~650 punti), DAX -0,48%, FTSE 100 -0,22%; Milano resiste (+0,2% a 52.722) su energia/utility (Eni, Italgas, Snam) e sul risiko bancario, con CdA straordinario MPS in corso oggi [Reuters/Teleborsa, 20 ago]. *Il rialzo del petrolio compensa il sostegno del rally obbligazionario.*
 
-**Europa: apertura in recupero attesa.** I futures su Euro Stoxx 50 indicano un'apertura in linea con il sollievo asiatico, dopo la chiusura in calo di ieri (Stoxx 600 futures -0,2%) legata a yield e petrolio elevati; **livello di apertura effettivo non ancora disponibile al momento della redazione**.
+**Rendimenti in calo dai massimi pluriennali.** Il Treasury 10 anni tratta al 4,64-4,65%, il 30 anni è sceso sotto il 5,2% dal picco 5,33-5,34% di mercoledì; spread BTP-Bund a 79,8-81 punti base, BTP 10 anni al 4,04-4,06% [tradingeconomics/Ansa, 20 ago]. Il VIX resta contenuto in area 15,2-15,9, nessun segnale di stress creditizio. *Sulla chiusura di Wall Street di mercoledì le fonti divergono (tra +0,2% e -0,7% sull'S&P 500): livello non univocamente confermabile al momento della redazione.*
 
 ---
 
 ## 5. VALUTE, ENERGIA E MATERIE PRIME
 
-**Petrolio in tensione sul Golfo.** Il Brent ha toccato quasi 92 dollari, massimo di quattro settimane, dopo l'allarme missilistico agli Emirati; resta comunque ben lontano dal picco bellico sopra i 120 dollari di fine aprile [Al-Monitor/AGBI, 20 ago]. Il WTI tratta poco sopra gli 85 dollari.
+**Dollaro ai minimi di tre mesi.** Il DXY è sceso a 98,72, l'EUR/USD è salito a 1,1692-1,17; lo yen non beneficia pienamente del movimento (USD/JPY area 158,5) per il differenziale di tassi Fed-BoJ ancora ampio [FXStreet/CNBC, 20 ago]. *Il calo dei rendimenti reali USA post-buyback è il driver comune a tutto il board valutario.*
 
-**Dollaro debole, oro ai massimi.** L'EUR/USD è salito a 1,1607 (+0,27%), sostenuto dal calo dei rendimenti reali USA post-buyback; l'oro ha guadagnato il 3,66% a 4.493 dollari/oncia, segnale che la domanda di copertura resta elevata nonostante il rimbalzo azionario [tradingeconomics, 19 ago]. *La combinazione dollaro debole/oro forte è tipica di una fase in cui il mercato prezza sia minore urgenza restrittiva Fed sia rischio geopolitico persistente.*
+**Petrolio in salita su rischio Hormuz strutturale.** Il Brent viaggia tra 92 e 95 dollari (+4% settimanale), sostenuto dalla rottura diplomatica UAE-Iran e dalla conferma di Trump che non c'è margine negoziale a breve; il WTI è stimato in area 87-89 dollari, ma il livello esatto odierno non è confermabile con certezza su fonti multiple [CNN/Bloomberg, 20 ago].
 
-**Rame ancora sopra i 14.000 $/t.** Dopo il record di inizio agosto (6,70 $/lb, spinto dall'arbitraggio pre-tariffario USA), i flussi verso i porti americani restano straordinari: oltre 200mila tonnellate importate a luglio, il volume mensile più alto dal 2014 [Bloomberg/news.metal.com, ago]. *Le aziende manifatturiere USA devono considerare che il premio COMEX-LME resta una variabile di costo strutturale, non transitoria.*
+**Oro in consolidamento, rame vicino ai record.** L'oro tratta tra 4.488 e 4.510 dollari/oncia, in lieve ritracciamento dopo il balzo di mercoledì (+3,66%, picco 4.557$); il rame resta sopra i 14.000 $/t, con punte a 14.455 $/t vicino al record storico di 14.527,50 $/t del 29 gennaio, sostenuto dalla domanda di data center AI e reti elettriche [IndexBox/Mining.com/MilanoFinanza, ago].
 
 ---
 
 ## 6. SUPPLY CHAIN, TRADE E INDUSTRIA
 
-**Dazi Canada: tregua fragile fino al 21 agosto.** L'intesa di massima abbasserebbe acciaio/alluminio dal 50% al 25% e le auto al 15%, ma resta subordinata alla finalizzazione dei documenti; Carney parla di "lavoro importante ancora da fare" [CTV/Al Jazeera, 19 ago]. *Le filiere automotive e metallurgiche nordamericane restano in attesa prima di poter ripianificare gli approvvigionamenti oltre il breve termine.*
+**Chip AI: la scappatoia si sposta offshore.** Nvidia ha ottenuto il via libera a esportare H200 in Cina con un tetto di 100.000 unità; le autorità USA stanno ora esaminando l'accesso indiretto ai chip avanzati tramite noleggio di capacità computazionale in Sud-Est asiatico [CNBC, 19 ago]. In parallelo TSMC ha spostato parte del packaging avanzato CoWoS verso l'impianto Intel in Malesia, segno che la capacità non tiene il passo con la domanda AI [Seoul Economic Daily, 20 ago]. *Le aziende cloud devono aspettarsi controlli più stringenti sulla provenienza degli utilizzatori finali.*
 
-**Washington chiude la falla sui chip AI.** Il Dipartimento del Commercio sta rafforzando l'enforcement contro l'accesso indiretto ai GPU Nvidia GB300 tramite data center in Sud-Est asiatico, dopo l'accusa a Moonshot AI di aver utilizzato capacità di calcolo in Thailandia; la quota di mercato di Nvidia in Cina è scesa a circa il 50% da oltre il 90% [CNBC, 19 ago]. *Le aziende cloud e i fornitori di data center regionali devono aspettarsi controlli più stringenti sulla provenienza degli utilizzatori finali.*
+**Noli in salita, colli di bottiglia nell'entroterra.** Sulla Transpacifico Shanghai-New York è salito del 10% a 8.706 $/40ft, con 49 cancellazioni di viaggio previste tra le settimane 34-38 (tasso 7%) [Drewry/Container News, 13-18 ago]. La congestione portuale è in calo ma la carenza di autotrasportatori USA (oltre 80.000 driver) sposta il collo di bottiglia sull'ultimo miglio [GEP/Freightos, 18 ago]. *Sulle terre rare, la tregua di Busan sospende i controlli export cinesi solo fino a novembre: la finestra di sicurezza dell'offerta si restringe.*
 
 ---
 
 ## 7. CORPORATE E TECNOLOGIA
 
-**Moderna e Merck: primo vaccino oncologico mRNA a superare la Fase 3.** La combinazione personalizzata intismeran + Keytruda ha centrato l'endpoint primario e uno secondario chiave nel trial INTerpath-001 su 1.137 pazienti con melanoma ad alto rischio operato; nessun nuovo segnale di sicurezza, richiesta di approvazione attesa entro mesi [STAT News/CNN, 19 ago]. Il titolo Moderna è salito del 176%. *È il primo risultato positivo di Fase 3 per una terapia a neoantigene personalizzata: apre un precedente regolatorio per l'intero comparto dei vaccini oncologici mRNA.*
+**Allerta federale USA su exploit AI contro infrastrutture critiche.** CISA, NSA, FBI, DOE ed EPA hanno emesso un'allerta congiunta su attacchi attivi, con codice generato da assistenti AI, contro controllori industriali Siemens S7 in almeno 12 stati, dopo interruzioni a luglio in oltre 30 sistemi idrici del Minnesota (sospetto gruppo legato all'Iran) [CISA advisory/The Register, 19 ago]. *È il primo caso documentato su scala federale di exploit generati con AI contro infrastrutture OT/ICS: gli operatori con PLC esposti online devono agire con urgenza.*
 
-**Nvidia, il prossimo test è il 26 agosto.** Dopo il violento sell-off sui semiconduttori di martedì (Kospi in circuit breaker, Kioxia -9%), il mercato attende i risultati Q2 FY27 di Nvidia (attesi 93-95 mld $ di ricavi) come verifica della tenuta della domanda di capex AI dopo le settimane di nervosismo su rendimenti e "circular financing" nel settore [tipranks/intellectia, ago]. *Un risultato sotto attese amplificherebbe la correlazione negativa già vista tra rendimenti lunghi e titoli growth.*
-
----
-
-## 8. SOTTO IL RADAR
-
-- **Nigeria verso la quotazione di NNPC.** Il presidente Tinubu ha annunciato la riforma e la quotazione in borsa della compagnia petrolifera di stato sulla Nigerian Exchange; la capitalizzazione del listino nigeriano è passata da circa 30mila a 160mila miliardi di naira in tre anni [allafrica, 6 ago]. Un segnale strutturale di apertura dei mercati dei capitali africani da monitorare per l'M&A energetico regionale.
-- **Angola sotto la doppia cifra d'inflazione per la prima volta in 11 anni.** Un dato che, se confermato in modo duraturo, cambierebbe il profilo di rischio di uno dei principali produttori petroliferi africani proprio mentre il Brent torna a salire [Businessday NG, ago].
+**Walmart batte le stime ma la guidance raffredda l'entusiasmo.** Ricavi Q2 a 187,9 miliardi di dollari (+5,9%, sopra consenso), ma la guidance sul trimestre in corso è sotto attese dell'1,4%; il CFO conferma che 2,9 miliardi di rimborsi tariffari saranno girati ai consumatori via prezzi più bassi [CNBC, 20 ago]. *Segnale di tenuta del consumo a basso reddito, ma cautela sui margini nella seconda metà dell'anno.*
 
 ---
 
-## 9. IMPLICAZIONI PER IL BUSINESS
+## 8. MONDO — FATTI RILEVANTI OLTRE IL BUSINESS
 
-- **Costo del capitale.** Il balzo del trentennale USA al 19% (5,33%) prima dell'intervento del Tesoro dimostra che il term premium resta fragile: le aziende con emissioni obbligazionarie a lunga scadenza pianificate dovrebbero valutare un front-loading prima di Jackson Hole, dove un discorso hawkish di Warsh potrebbe far ripartire la pressione sui rendimenti.
-- **Costi energetici e logistici.** Il Brent vicino ai 92 dollari e i premi assicurativi war-risk nel Golfo restano una tassa strutturale sui costi di trasporto marittimo per chi opera rotte Medio Oriente-Asia; a questo si somma un indice noli containerizzati ancora in doppia cifra su base annua. Le aziende energy-intensive dovrebbero mantenere coperture attive oltre l'orizzonte del trimestre.
-- **Compliance e continuità operativa.** La sospensione degli scambi UAE-Iran e l'inasprimento dei controlli USA sull'export di chip AI verso data center terzi impongono una revisione immediata delle controparti per le aziende con esposizione al Golfo o alla catena del valore AI in Asia; la tregua tariffaria Canada-USA resta condizionale fino al 21 agosto, sconsigliando decisioni di sourcing definitive prima di quella data.
-
----
-
-## 10. AGENDA — PROSSIME 72 ORE
-
-- **20 agosto:** Philadelphia Fed Index e Leading Indicators USA (14:30/16:00 CEST); CPI Giappone di luglio (12:30 CEST)
-- **21 agosto:** scadenza della tregua tariffaria Canada-USA; vendite al dettaglio Canada e Regno Unito
-- **23 agosto:** PMI flash manifatturiero e servizi di Eurozona, Regno Unito e Stati Uniti
-- **26 agosto:** PCE core USA di luglio; scadenza per la risposta della governatrice Fed Lisa Cook alla Casa Bianca; risultati trimestrali Nvidia (dopo la chiusura)
-- **27-29 agosto:** Jackson Hole Economic Symposium, primo discorso da chair di Kevin Warsh
+- **Epidemia di Ebola più letale nella storia della RD Congo.** Il ceppo Bundibugyo ha raggiunto 5.021 casi confermati e 2.378 decessi al 18 agosto, concentrati nella provincia di Ituri; non esiste vaccino approvato per questo ceppo [WHO/AFRO, 18 ago].
+- **Terremoto in Colombia, risposta umanitaria ancora in corso.** Il bilancio del sisma di magnitudo 7,4 del 10 agosto è salito a 281 morti e quasi 4.000 feriti, con oltre 12.000 abitazioni distrutte; la Banca Mondiale ha stanziato 200 milioni di dollari, il WFP ne chiede altri 23 per assistere 100.000 persone [ReliefWeb/WFP, 18 ago].
 
 ---
 
-## 11. MARKET MOVER DEL GIORNO
+## 9. SOTTO IL RADAR
 
-**I rendimenti Treasury USA e la tenuta dell'intervento del Tesoro sui buyback.** È la variabile che ha mosso sia l'azionario USA sia il rimbalzo asiatico di oggi. Si confermerebbe con un 10 anni stabile sotto il 4,70% e un 30 anni sotto il 5,25% nelle prossime sedute; si smentirebbe con un ritorno del trentennale sopra il 5,33% di martedì, che riaprirebbe il sell-off su tecnologia e semiconduttori.
+- **OpenAI segnala una IPO nel 2027.** Il CFO Sarah Friar ha detto internamente che la quotazione potrebbe arrivare anche prima se il business continua a "inflettere" [riportato 19 ago]. Primo segnale temporale concreto per gli investitori pre-IPO del settore.
+- **Crollo demografico in Asia centrale.** Le nascite nel primo semestre 2026 sono calate del 7,9% in Uzbekistan e del 7,1% in Kazakhstan: un trend strutturale su forza lavoro e sistemi pensionistici ancora poco coperto dalla stampa internazionale [Times of Central Asia, ago].
 
 ---
 
-## 12. RISK SENTIMENT
+## 10. IMPLICAZIONI PER IL BUSINESS
 
-🟡 **Cautious Relief, con hedging residuo.** Il VIX chiude a 15,84 (+4,3%), ancora lontano da soglie di stress, ed equity USA e asiatico rimbalzano insieme sull'allentamento dei rendimenti. Ma l'oro segna comunque un balzo del 3,66% nella stessa sessione: un segnale che parte del mercato continua a coprirsi contro il rischio geopolitico nel Golfo e l'incertezza sull'indipendenza della Fed, anche mentre l'azionario festeggia. È un sollievo tattico, non un cambio di regime.
+- **Costo del capitale.** Il raddoppio dei buyback Tesoro ha già riportato il 30 anni sotto il 5,2%: finestra favorevole per il front-loading di emissioni corporate a lunga scadenza prima di Jackson Hole, dove le tensioni sull'indipendenza Fed potrebbero far ripartire la volatilità sui tassi.
+- **Costi energetici e logistici.** Il Brent verso 95 dollari su un rischio Hormuz che resta strutturale, non episodico, impone coperture attive per le aziende energy-intensive e per chi opera rotte Golfo-Asia; a questo si somma la pressione sui noli Transpacifico in vista della peak season.
+- **Continuità operativa e compliance.** L'allerta CISA su exploit AI contro PLC Siemens richiede verifiche urgenti — non pianificate — per gli operatori di infrastrutture critiche con OT esposto online; l'enforcement USA sui chip AI si sposta sui data center offshore, imponendo una revisione delle controparti cloud in Asia.
+
+---
+
+## 11. AGENDA — PROSSIME 72 ORE
+
+- **21 agosto:** scadenza della tregua tariffaria Canada-USA; CPI Giappone di luglio; UK Retail Sales di luglio (08:00 CEST); PMI flash manifatturiero e servizi di Eurozona, Regno Unito e Stati Uniti
+- **26 agosto:** PCE core USA di luglio (14:30 CEST); scadenza per la risposta della governatrice Fed Lisa Cook; risultati trimestrali Nvidia dopo la chiusura (attesi 93-95 mld $ di ricavi)
+- **27-29 agosto:** Jackson Hole Economic Symposium; discorso chiave atteso il 28 agosto da Kevin Warsh, primo intervento da chair della Fed
+
+---
+
+## 12. MARKET MOVER DEL GIORNO
+
+**Il raddoppio dei buyback del Tesoro USA e il conseguente calo dei rendimenti/indebolimento del dollaro.** È il fattore che sta muovendo contemporaneamente azionario asiatico, FX, oro e rame. Si confermerebbe con il 30 anni stabile sotto il 5,2% e un'apertura di Wall Street in territorio positivo; si smentirebbe con un ritorno sopra il 5,30% se l'asta o i PMI flash di domani deludessero.
+
+---
+
+## 13. RISK SENTIMENT
+
+🟡 **Cautious Optimism a doppio binario.** Il VIX resta contenuto in area 15,2-15,9, ben sotto le soglie di stress, e il Kospi segna un +5,89%: il mercato dei tassi festeggia l'intervento del Tesoro USA. Ma il Brent in rialzo del 4% settimanale su un rischio Hormuz senza sbocco negoziale, e l'oro ancora sopra i 4.480 dollari nonostante il rimbalzo azionario, segnalano che parte del mercato continua a coprirsi contro il rischio geopolitico. È un sollievo trainato dai tassi, non un cambio di regime nella percezione del rischio.
