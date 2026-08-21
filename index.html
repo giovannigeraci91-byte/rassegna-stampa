@@ -716,18 +716,31 @@ h1{
   function renderRisk(parts, blocks){
     if (!blocks.length) return '';
     var first = blocks[0].text;
+
+    /* L'emoji può precedere il grassetto (🟡 **testo**) o farne parte
+       (**🟡 testo**): la separiamo prima di cercare il blocco in grassetto,
+       così il resto della logica non dipende da quale dei due formati è
+       stato usato in redazione. */
+    var body = first;
+    var leadingEmoji = '';
+    var em0 = body.match(EMOJI);
+    if (em0 && em0[2].trim()){
+      leadingEmoji = em0[1];
+      body = em0[2];
+    }
+
     var lead = '', rest = '';
-    var m = first.match(/^\*\*(.+?)\*\*\s*([\s\S]*)$/);
+    var m = body.match(/^\*\*(.+?)\*\*\s*([\s\S]*)$/);
     if (m){
       lead = m[1].trim();
       rest = m[2].trim();
     } else {
-      var dot = first.indexOf('. ');
-      lead = dot > -1 ? first.slice(0, dot + 1).trim() : first.trim();
-      rest = dot > -1 ? first.slice(dot + 2).trim() : '';
+      var dot = body.indexOf('. ');
+      lead = dot > -1 ? body.slice(0, dot + 1).trim() : body.trim();
+      rest = dot > -1 ? body.slice(dot + 2).trim() : '';
     }
 
-    var emoji = '⚠️';
+    var emoji = leadingEmoji || '⚠️';
     var label = lead;
     var em = lead.match(EMOJI);
     if (em && em[2].trim()){
