@@ -349,25 +349,22 @@ h1{
 .card-mover .body{ color: var(--text); }
 
 /* ---------- risk sentiment ---------- */
-.risk-pill{
-  display: inline-flex;
-  align-items: center;
-  gap: 9px;
-  margin-top: 14px;
-  padding: 9px 16px;
-  background: var(--surface-2);
-  border: 1px solid var(--border-strong);
-  border-radius: 999px;
+.card-risk{
+  border: 1px solid var(--border-accent);
+  background: var(--surface-mover);
+  border-radius: 14px;
+  padding: 18px 16px 20px;
+  margin-top: 6px;
 }
-.risk-emoji{ font-size: 15px; line-height: 1; }
-.risk-label{
+.card-risk .sec-head{ margin-bottom: 10px; }
+.risk-verdict{
   font-family: var(--serif);
   font-weight: 600;
-  font-size: 15px;
-  line-height: 1.3;
+  font-size: 16px;
+  line-height: 1.35;
   color: var(--text);
 }
-.risk-rationale{ margin-top: 14px; }
+.risk-rationale{ margin-top: 10px; color: var(--text-body); }
 
 /* ---------- states ---------- */
 .notice{
@@ -740,15 +737,12 @@ h1{
     label = label.replace(/\s*[.;]$/, '');
 
     var html = head(parts) +
-      '<div class="risk-pill">' +
-        '<span class="risk-emoji" aria-hidden="true">' + esc(emoji) + '</span>' +
-        '<span class="risk-label">' + inline(label) + '</span>' +
-      '</div>';
+      '<div class="risk-verdict">' + esc(emoji) + ' ' + inline(label) + '</div>';
 
     if (rest) html += '<p class="body risk-rationale">' + inline(rest) + '</p>';
     html += paragraphs(blocks.slice(1));
 
-    return '<section class="block">' + html + '</section>';
+    return '<section class="block"><div class="card-risk">' + html + '</div></section>';
   }
 
   /* Market mover e risk sentiment chiudono il markdown ma sono la lettura
