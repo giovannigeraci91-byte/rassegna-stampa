@@ -18,14 +18,16 @@ Il prompt operativo della Routine segue questa struttura, generalizzata per un p
 6. Supply chain, trade e industria
 7. Corporate e tecnologia
 8. Mondo — fatti rilevanti oltre il business (0-4 punti)
-9. Sotto il radar (0-2 punti, criterio di ammissione morbido)
-10. Implicazioni per il business
+9. Implicazioni per il business
+10. Italia in breve (max 3 punti, standard di fonti più leggero — una fonte affidabile con data è sufficiente)
 11. Agenda — prossime 72 ore
 12. Market Mover del giorno
 13. Risk Sentiment
-14. Italia in breve (max 3 punti, standard di fonti più leggero — una fonte affidabile con data è sufficiente)
+14. Sotto il radar (0-2 punti, criterio di ammissione morbido)
 
-Le sezioni 1-13 costituiscono il corpo editoriale globale e devono restare rigorosamente universali, senza bias verso l'Italia. La sezione 14 è un'appendice separata con criteri di verifica propri, intenzionalmente meno rigidi: non deve influenzare la selezione o il tono delle sezioni 1-13.
+Tutte le sezioni tranne Italia in breve costituiscono il corpo editoriale globale e devono restare rigorosamente universali, senza bias verso l'Italia. Italia in breve ha criteri di verifica propri, intenzionalmente meno rigidi, e copre solo gli stessi ambiti del corpo globale (politica economica e fiscale, macro italiana, mercati e finanza, corporate, politica interna solo se incide su conti pubblici o stabilità di governo): niente cronaca, sport o cultura. Non deve influenzare la selezione o il tono delle altre sezioni.
+
+**Freschezza delle notizie.** La rassegna è quotidiana: il fatto principale di ogni punto deve risalire alle ultime 36 ore (72 ore il lunedì, per coprire il weekend). Fonti più vecchie sono ammesse solo come contesto in una frase subordinata, mai come notizia del punto né in apertura. La regola vale per tutte le sezioni, Italia inclusa.
 
 Il testo integrale del prompt vive nella configurazione della Routine, non in questo file. Se modifichi qualcosa nella struttura editoriale, verifica prima con Giovanni — questa sequenza di sezioni è vincolante per il rendering frontend (vedi sotto).
 
@@ -46,7 +48,7 @@ Il testo integrale del prompt vive nella configurazione della Routine, non in qu
 
 - Tema dark "dashboard editoriale". Font: Lora, IBM Plex Sans, IBM Plex Mono.
 - Mobile-first, range di riferimento 390–430px.
-- Le sezioni **Market Mover del giorno** e **Risk Sentiment** vengono riposizionate via JS (DOM reordering) subito dopo la card superiore, anche se nel markdown sorgente sono in fondo. Non toccare questa logica di riordino senza richiesta esplicita — è una scelta di design intenzionale, non un bug.
+- Le sezioni **Market Mover del giorno**, **Risk Sentiment** e **Sotto il radar** (in quest'ordine) vengono riposizionate via JS (DOM reordering) subito dopo la card superiore, anche se nel markdown sorgente sono in fondo. Il frontend ignora i numeri del markdown e rinumera le sezioni in base alla posizione in pagina. Non toccare questa logica di riordino senza richiesta esplicita — è una scelta di design intenzionale, non un bug.
 - Per sezioni che necessitano di un contenitore visivo con enfasi (bordo accent), segui il pattern `.card-mover`/`.card-risk` — non introdurre badge a pillola (`border-radius: 999px` senza card wrapper): su schermi stretti si sovrappongono al testo, come già successo con Risk Sentiment prima del fix.
 
 ## Audio
