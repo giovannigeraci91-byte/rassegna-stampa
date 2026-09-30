@@ -628,6 +628,7 @@ h1{
     if (/cose che contano|tre cose|3 cose/.test(n)) return 'top3';
     if (/market mover/.test(n))                     return 'mover';
     if (/risk sentiment|sentiment/.test(n))         return 'risk';
+    if (/sotto il radar/.test(n))                   return 'radar';
     if (/agenda/.test(n))                           return 'agenda';
     return 'standard';
   }
@@ -760,9 +761,10 @@ h1{
 
   /* Market mover e risk sentiment chiudono il markdown ma sono la lettura
      più urgente: vengono risaliti sopra la prima sezione numerata, subito
-     sotto "Le tre cose che contano oggi". Cambia solo la posizione in pagina:
-     il parsing di oggi.md e il markup delle due sezioni restano identici. */
-  var LIFTED = ['mover', 'risk'];
+     sotto "Le tre cose che contano oggi". Sotto il radar li segue, subito
+     dopo il risk sentiment. Cambia solo la posizione in pagina: il parsing
+     di oggi.md e il markup delle sezioni restano identici. */
+  var LIFTED = ['mover', 'risk', 'radar'];
 
   function arrange(entries){
     var lifted = entries.filter(function(e){ return LIFTED.indexOf(e.kind) > -1; });
