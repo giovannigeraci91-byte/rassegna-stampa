@@ -1,44 +1,43 @@
-# Rassegna Stampa — sabato 10 ottobre 2026
+# Rassegna Stampa — domenica 11 ottobre 2026
 
-*Redazione chiusa alle ore 08:15 CEST. Finestra di freschezza: ultime 36 ore. Non risultano verificabili in modo affidabile: livelli assoluti degli indici USA e delle Borse europee, oro, FX, dati italiani freschi, esito dell'approdo di Isaias. Le sezioni senza notizie fresche e verificate sono omesse.*
+*Redazione chiusa alle ore 08:15 CEST. Finestra di freschezza: ultime 36 ore. Domenica: Borse chiuse, quindi i livelli di mercato sono quelli di venerdì 9 ottobre. Non risultano verificabili in modo affidabile: chiusure di Europa e Asia, oro, FX, dati italiani freschi. Le sezioni senza notizie fresche e verificate sono omesse.*
 
 ## 1. Le tre cose che contano oggi
 
-- **Wall Street chiude la settimana in rialzo, ma sui rendimenti pesa il livello più alto dal 2002**: S&P 500 +0,6%, Dow +0,8% (circa 423 punti), Nasdaq +0,6%, con l'S&P 500 a +1,15% sulla settimana; il Treasury a 10 anni è indicato a 5,36%, massimo dal 2002 **[non confermato]** nel livello preciso, perché una sola fonte riporta il dato [Washington Post, 9 ott; TheStreet, 9 ott].
-- **Il petrolio resta sopra i 100 dollari nonostante la promessa di Trump di non colpire l'Iran prima delle elezioni del 3 novembre**: Brent a 102,91 dollari (−1,3%), WTI a 90,40 (−1,2%), mentre il blocco navale USA resta in vigore e gli attacchi iraniani alle petroliere continuano [Rio Times, 9 ott; Al-Monitor, 8 ott; Washington Post, 9 ott].
-- **L'uragano Isaias è atteso sulla costa USA del Golfo tra venerdì sera e oggi**: allerta uragano da Ocean Springs (Mississippi) al confine tra le contee di Bay e Gulf (Florida), storm surge di 1,5-2 metri e piogge fino a circa 38 cm in alcune aree; l'approdo effettivo non è ancora verificato **[non confermato]** [Al Jazeera, 8 ott; Mississippi Today, 8 ott].
+- **Attacco all'aeroporto di Riyadh: 12 morti e 309 feriti, Trump apre a colpire gli Houthi e a riprendere i raid sull'Iran**: Riad attribuisce l'attacco agli Houthi filo-iraniani, e il presidente USA ha detto sabato che Washington potrebbe unirsi all'Arabia Saudita nei raid e riprendere gli attacchi all'Iran, rimettendo in discussione la pausa dichiarata nei giorni scorsi **[non confermato]** nei dettagli operativi, fonte singola [ABC News, 10 ott].
+- **Wall Street chiude la settimana ai massimi: S&P 500 a 7.811,54 (+0,6%), con il Treasury a 10 anni al 5,24%**: il rendimento è tornato a salire (da 5,22%) restando vicino ai massimi dal 2002, e il costo del denaro resta il vincolo principale per i multipli azionari [AP via Baltimore Sun, 9 ott; AP via Washington Times, 9 ott].
+- **Brent a 104,72 dollari (+0,4%) alla chiusura di venerdì**: il greggio resta sopra i 100 dollari con lo Stretto di Hormuz sotto pressione, e l'ultimo episodio è l'esplosione di una mina contro una superpetroliera, secondo i Guardiani della Rivoluzione **[non confermato]** [AP via BNN Bloomberg, 9 ott; ABC News, 10 ott].
 
 ## 2. Geopolitica e policy
 
-**Iran: pausa militare americana dichiarata, non una distensione.** Trump ha detto su Truth Social di non prevedere attacchi all'Iran prima delle elezioni di metà mandato del 3 novembre, citando discussioni "produttive" mediate dal Qatar; il blocco navale resta e Teheran ha intensificato gli attacchi alla navigazione commerciale nell'ultima settimana [Al-Monitor, 8 ott; Argus, 8 ott]. Gli analisti notano che la dichiarazione non garantisce lo stop alle ostilità e che le probabilità di una svolta diplomatica appaiono basse [Al-Monitor, 8 ott]. Il New York Times avrebbe riferito di opzioni del Pentagono per una campagna di circa tre giorni, che Trump avrebbe finora scartato [Rio Times, 9 ott, che cita il NYT]. Conseguenza: il rischio si sposta dalla guerra aperta alla guerra sul traffico marittimo, che continua a gonfiare il premio sul greggio.
+**Medio Oriente: l'escalation si allarga dal Golfo allo Yemen.** Oltre all'attacco di Riyadh, i Guardiani della Rivoluzione affermano che una petroliera con greggio ha colpito una mina uscendo da Hormuz attraverso una "rotta non autorizzata" (fonte: media di Stato iraniani, quindi parte in causa), e un altro live blog riferisce che forze USA hanno messo fuori uso un cargo nel Golfo di Oman **[non confermato]** [ABC News, 10 ott; Iran International, 10 ott]. Teheran ha ribadito che lo Stretto resterà chiuso finché non saranno soddisfatte le sue sette condizioni, mentre Trump ha respinto il piano iraniano di riapertura in sette giorni [Al Jazeera, 4 ott, contesto; RFE/RL, contesto]. La lettura di mercato è che ogni nuovo attacco a infrastrutture o navi sposti il rischio dalla trattativa alla guerra sul traffico marittimo. Conseguenza: premio di rischio persistente su greggio, noli e assicurazioni marittime.
 
 ## 4. Mercati
 
-**Azionario USA: record settimanale e attesa per gli utili.** Gli indici hanno chiuso in rialzo dopo una settimana volatile, in cui l'S&P 500 aveva toccato un massimo storico a 7.844,52 per poi cedere parte dei guadagni; giovedì la tecnologia aveva perso terreno dopo notizie su ricavi OpenAI inferiori di circa 20 miliardi di dollari alle stime precedenti [Washington Post, 9 ott]. Le Borse europee hanno chiuso in rialzo di oltre l'1% in molti listini; livelli non disponibili al momento della redazione [Washington Post, 9 ott]. **Obbligazionario.** Il rendimento a 10 anni USA ha toccato il massimo dal 2002 nella settimana; il picco precedente era a circa 5,33-5,34% il 1° ottobre, in un rialzo globale dei rendimenti legato al petrolio e alle attese di ulteriori strette [Bloomberg via Bloomberg Government, 1 ott, contesto]. La lettura di mercato è che il costo del denaro, più dell'energia, sia oggi il principale vincolo per i multipli azionari. Conseguenza: il rally poggia su un tasso risk-free a livelli che non si vedevano da oltre due decenni.
+**Azionario USA: record settimanale, ma con ampiezza limitata.** Venerdì S&P 500 +0,6% a 7.811,54, Dow +0,8% a 51.654,95, Nasdaq +0,6% a 27.366,17, Russell 2000 +0,5% a 2.806,98. Su base settimanale S&P 500 +1,2% e Dow +0,9%, ma Russell 2000 −0,9%; da inizio anno S&P 500 +14,1% e Nasdaq +17,7%. L'S&P 500 ha chiuso vicino al massimo storico di martedì [AP via Baltimore Sun, 9 ott]. **Obbligazionario.** Il 10 anni USA è al 5,24% (da 5,22%) dopo oscillazioni nella seduta, con una domanda d'asta che ha frenato i rialzi; i timori sono inflazione da petrolio, debito pubblico USA e segnali di economia ancora in crescita [AP via Washington Times, 9 ott]. Il mutuo a 30 anni è al livello più alto da quasi tre anni [AP via Baltimore Sun, 9 ott]. Conseguenza: l'azionario regge a rendimenti da inizio secolo, ma la divergenza tra large cap e small cap indica che il rally è selettivo.
 
 ## 5. Valute, energia e materie prime
 
-**Brent a 102,91 dollari (−1,3%), WTI a 90,40 (−1,2%).** Il calo di venerdì segue il balzo di giovedì oltre i 105 dollari, e il rimbalzo del premio di rischio sui nuovi attacchi alle petroliere; la dichiarazione di Trump ha ridotto solo in parte i guadagni [Rio Times, 9 ott; Al-Monitor, 8 ott]. Livelli di oro, dollaro e principali cambi non disponibili al momento della redazione. Conseguenza: con il greggio sopra i 100 dollari, l'inflazione energetica resta un rischio per i dati sui prezzi della prossima settimana.
-
-## 8. Mondo — fatti rilevanti oltre il business
-
-- **Isaias, primo uragano della stagione atlantica sulla costa USA del Golfo**: nella stagione, finora insolitamente tranquilla per via di un forte El Niño, è atteso un approdo tra Mississippi e Florida Panhandle con intensità incerta (tra categoria 1 e 3 secondo le fonti); la Florida ha dichiarato lo stato di emergenza in oltre un terzo delle contee e alcune piattaforme del Golfo hanno sospeso la produzione [Al Jazeera, 8 ott; ADN, 8 ott]. Le informazioni sono previsioni precedenti all'approdo.
+**Brent a 104,72 dollari (+0,4%) a fine settimana**, dopo un range intraday tra circa 102,5 e 104 dollari e un calo mattutino poi azzerato; il mercato prezza l'incertezza sulla guerra con l'Iran e sui tempi di normalizzazione dell'offerta [AP via BNN Bloomberg, 9 ott]. Livelli di oro, dollaro e principali cambi non disponibili al momento della redazione. Conseguenza: con il greggio stabilmente sopra i 100 dollari, l'inflazione energetica pesa sul dato CPI di mercoledì.
 
 ## 9. Implicazioni per il business
 
-- **Costo del capitale**: con il Treasury a 10 anni sopra il 5,3% e petrolio sopra i 100 dollari, le emissioni e i rifinanziamenti a tasso fisso restano costosi; vale la pena anticipare le finestre di funding prima dei dati sull'inflazione.
-- **Energia e logistica**: premio di rischio sulla navigazione nel Golfo e possibili interruzioni al Golfo del Messico richiedono verifica di hedging su carburante e di esposizione a raffinerie e porti USA nel fine settimana.
+- **Costo del capitale**: con il decennale USA sopra il 5,2% e i mutui ai massimi da tre anni, il finanziamento a tasso fisso resta caro; chi ha rifinanziamenti in calendario valuti di anticipare le finestre prima del CPI di mercoledì.
+- **Energia e continuità operativa**: l'allargamento del fronte a Riyadh e allo Yemen aumenta il rischio per personale, asset e rotte nell'area del Golfo e del Mar Rosso; vanno riverificati piani di continuità e coperture assicurative.
+- **Pricing e margini**: un Brent a 100-105 dollari alimenta costi di trasporto e input; le clausole di indicizzazione sul carburante meritano una revisione.
 
 ## 11. Agenda — prossime 72 ore
 
-- **Lun 12 ott**: Columbus Day, mercato obbligazionario USA chiuso (calendario, date puntuali da riverificare).
-- **Settimana 12-16 ott**: dati sull'inflazione USA di settembre e avvio della stagione dei risultati trimestrali con le grandi banche; date e orari esatti non verificati [Thrive in Markets, calendario settimanale].
-- **Fino al 3 nov**: scadenza indicata da Trump per la pausa sugli attacchi all'Iran, coincidente con le elezioni di metà mandato.
+- **Lun 12 ott**: Columbus Day, mercato obbligazionario USA chiuso [Fedratecalc, calendario, ott].
+- **Mar 13 ott**: avvio della stagione degli utili bancari USA (JPMorgan indicata per il 13, data da confermare) **[non confermato]**.
+- **Mer 14 ott, 8:30 ET**: CPI USA di settembre; attese di consenso +0,6% m/m headline (prec. +0,4%) e +0,2% core (prec. +0,3%) [Investinglive, settimana].
+- **Gio 15 ott, 8:30 ET**: PPI e vendite al dettaglio USA; PIL UK [Investinglive, settimana].
+- Più avanti: FOMC il 28 ottobre, BCE il 29 ottobre.
 
 ## 12. Market Mover del giorno
 
-**Aggiornamento sull'approdo di Isaias e sulla produzione offshore del Golfo del Messico.** Danni contenuti e riavvio rapido delle piattaforme tenderebbero a sgonfiare il premio sul greggio; interruzioni prolungate a raffinerie o terminal lo confermerebbero. Dato che oggi i mercati sono chiusi, l'effetto si vedrà lunedì.
+**Il CPI USA di mercoledì 14 ottobre.** È il dato che può confermare o smentire i prezzi dei futures sul Fed. Un core sopra +0,2% m/m spingerebbe i rendimenti verso nuovi massimi; un dato in linea o più debole, dopo i 29.000 posti di lavoro di settembre, allenterebbe la pressione.
 
 ## 13. Risk Sentiment
 
-**⚖️ Cautious Optimism, con segnali contraddittori.** Azionario sui massimi storici di settimana (S&P 500 +1,15% nei cinque giorni) e Europa in rialzo di oltre l'1%, ma rendimento USA a 10 anni a ridosso dei massimi dal 2002 e Brent oltre i 100 dollari. VIX, spread di credito e flussi sull'oro non verificati in questa sessione.
+**🟠 Cautious Optimism con rischio di coda geopolitico.** Azionario USA vicino ai massimi (S&P 500 +14,1% da inizio anno), ma Treasury a 10 anni al 5,24%, Brent sopra i 104 dollari e breadth debole (Russell 2000 −0,9% nella settimana): i segnali sono contraddittori, e la tenuta del rally dipende dal CPI e dall'evoluzione in Medio Oriente. VIX e oro non disponibili al momento della redazione.
