@@ -1,68 +1,66 @@
-# Rassegna Stampa — lunedì 19 ottobre 2026
+# Rassegna Stampa — martedì 20 ottobre 2026
 
-*Redazione chiusa alle ore 08:15 CEST. Finestra di freschezza: 72 ore (lunedì), dal pomeriggio di venerdì 16 ottobre. Non disponibili o non verificati al momento della redazione: VIX, rendimento del Treasury a 10 anni di venerdì, dollar index, EUR/USD, USD/JPY, oro, rame, gas europeo, Bund, esito della revisione Dbrs sull'Italia, sessione di Hong Kong e Shanghai di oggi. Dove le fonti divergono sui livelli, il dato è indicato come approssimativo.*
+*Redazione chiusa alle ore 08:10 CEST. Finestra di freschezza: 36 ore, da lunedì 19 ottobre mattina. Non disponibili o non verificati al momento della redazione: VIX, EUR/USD e USD/JPY (livelli), rame, gas europeo, livello dell'indice Hang Seng, rating e dati ufficiali Eurostat. Dove le fonti divergono sui livelli, il dato è indicato come approssimativo.*
 
 ## 1. Le tre cose che contano oggi
 
-- **Wall Street chiude la peggior settimana da giugno, trascinata dai chip**: venerdì l'S&P 500 perde l'1,1% a 7.659,44 (−1,9% in settimana) e il Nasdaq il 2,1% a 26.140,03 (−4,5% in settimana), mentre il Dow regge a 52.002,41 (−0,3% nel giorno, +0,7% in settimana). Conta perché i dubbi sulla sostenibilità del ciclo di investimenti in AI hanno colpito per primi i semiconduttori e ora toccano il finanziamento a debito del settore; i future di stamattina rimbalzano (S&P +0,8%, Nasdaq 100 +1,3%), ma solo come "buy the dip" [La Nación, 16 ott; Thrive in Markets, 16 ott; CNBC, 18 ott].
-- **Il Brent resta a ridosso di 110 dollari con Hormuz ancora sotto attacco**: venerdì il greggio ha chiuso ai massimi dal 19 maggio (circa 109,9 dollari) e stamattina scende dell'1% circa a 108,80 dopo la notizia di una deroga di Trump alle sanzioni sulla Russia; le Guardie della Rivoluzione dicono che due petroliere hanno preso fuoco urtando mine, mentre l'Iran ribadisce una proposta di riapertura dello Stretto in sette giorni. Conta perché i flussi di petrolio e derivati nel Golfo sono a 10,9 milioni di barili al giorno a settembre, contro circa 20 prima della guerra [CNBC/Reuters, 18 ott; Bloomberg, 18 ott].
-- **La Cina accelera nel terzo trimestre, ma solo grazie all'export**: il PIL cresce del 4,5% annuo contro il 4,4% atteso (4,3% nel secondo trimestre), con produzione industriale a +5,5% e vendite al dettaglio a +1,1%, il ritmo più alto da marzo. Conta perché la domanda interna resta debole (investimenti fissi −7,2% da inizio anno, immobiliare −20,6%) e la crescita dipende da una spinta esportatrice, in particolare di prodotti legati all'AI, che alimenta frizioni commerciali [CNBC, 19 ott; Investing.com/Reuters, 19 ott].
+- **Il rimbalzo dei chip a Wall Street non regge in Asia**: lunedì il Nasdaq sale dell'1,11% a 26.430,89, l'S&P 500 di circa lo 0,41% (circa 7.690) e il Dow cede lo 0,07%, con l'indice dei semiconduttori Philadelphia a +1,6% dopo otto sedute di calo (−15,7%, la serie peggiore dal 2008); stamattina però il Kospi perde fino al 2,8% (circa 5.605) e il Nikkei lo 0,6% (circa 64.512), con i memory coreani sotto pressione. Conta perché il dubbio sul costo di finanziamento dell'AI non è risolto e la settimana di earnings (Meta, Tesla, TI, Lam) è il test: la lettura è che si tratti di un rimbalzo da ipervenduto, non di un cambio di fondamentali [Reuters via Yahoo Finance, 19 ott; Business Today, 20 ott; AP via US News, 19 ott; Invezz, 20 ott].
+- **Brent a 107-109 dollari: la deroga alle sanzioni russe non compensa Hormuz**: dopo i massimi da cinque mesi di venerdì (circa 109,9), il greggio cede circa il 2% lunedì; Trump ha firmato venerdì una deroga a sanzioni e dazi su alcuni flussi energetici russi (Rubio parla di fino a 60 giorni per valutarne l'impatto), mentre i flussi di greggio dal Golfo sono scesi a circa 8,5 milioni di barili al giorno da oltre 20 e le Guardie della Rivoluzione riferiscono di una petroliera su una mina. Conta perché l'energia resta il principale canale di inflazione e il motivo per cui i tassi non scendono [CNBC, 18 ott; Mansfield Energy, 19 ott; Kalkine, 19 ott].
+- **Europa sotto pressione per Parigi: OAT al 4,86%, spread sul Bund a 145 punti**: dopo un weekend di disordini per il costo della vita (circa 2.400 arresti) e senza maggioranza sul bilancio 2027, il CAC 40 cede l'1,2%, il rendimento decennale francese sale di circa 8 punti base e lo spread sul Bund tocca il massimo da due settimane. Conta perché trascina il resto del debito periferico (BTP-Bund a 111 punti) e il FTSE MIB (−1,5% a 49.086) [Reuters/LSEG via Pomegra, 19 ott; Il Sole 24 Ore/Radiocor, 19 ott; ANSA, 19 ott].
 
 ## 2. Geopolitica e policy
 
-- **Washington allenta la pressione energetica su Mosca mentre Kiev colpisce le raffinerie russe.** Secondo Reuters, Trump ha rinunciato a sanzioni e dazi su alcuni flussi energetici russi; il dettaglio dell'atto non è ancora chiaro e segue la licenza OFAC sul diesel russo del 9 ottobre, che Zelensky ha definito un regalo a Putin. Gli Usa hanno intanto ripreso la condivisione di intelligence con l'Ucraina dopo una breve sospensione. Droni ucraini hanno incendiato un terminal petrolifero a San Pietroburgo e la raffineria di Ryazan ha fermato un'unità primaria dal 15 ottobre. La conseguenza è un'offerta di prodotti raffinati più abbondante nel breve, ma una guerra energetica che non si raffredda [CNBC/Reuters, 18 ott; Reuters, 18 ott; Ukrainska Pravda, 10 ott come contesto].
-- **Iran e Golfo: oggi Lavrov a Teheran.** Il ministro degli Esteri russo incontra la leadership iraniana mentre Trump avverte che la Russia potrebbe affiancare Teheran; l'Iran sfida Washington a colpire di nuovo. Il rischio è che il dossier Hormuz si intrecci con quello ucraino [Reuters, 18 ott; Fox News, 18 ott].
-- **Houthi contro Arabia Saudita.** Gli attacchi si intensificano e l'Egitto dichiara sostegno a Riad; Riad nega l'abbattimento di un elicottero rivendicato dai ribelli. Le rivendicazioni houthi su impianti Aramco (inizio ottobre) non sono state confermate in modo indipendente. Il rischio è per le infrastrutture del Mar Rosso e per l'export saudita [Reuters, 18 ott].
+- **Lavrov a Tehran, Mosca si propone come mediatore su Hormuz.** Dopo l'incontro con il ministro degli Esteri Araghchi, Lavrov ha chiesto il ritorno alle condizioni prebelliche nello Stretto, ha rilanciato il memorandum mediato dal Pakistan a giugno (poi collassato) come base negoziale e ha annunciato il graduale rientro del personale russo a Bushehr. Il piano iraniano in sette giorni (riapertura dello Stretto al sesto giorno in cambio di fine del blocco navale Usa, scongelamento degli asset e deroga sul petrolio) resta sul tavolo ma Trump l'ha respinto. La conseguenza è che non si intravede una via di uscita rapida e il premio al rischio sul greggio resta [Al Jazeera, 19 ott; New Arab, 19 ott].
+- **Terre rare: il 10 novembre scade la pausa cinese.** Gli Usa sostengono che la tregua commerciale arrivi al 10 gennaio 2027, ma Pechino non ha pubblicato un testo giuridico corrispondente. Il rischio è una finestra di incertezza per le filiere di magneti e componenti nelle prossime tre settimane [Technology.org, 19 ott; CNBC, 15 ott come contesto].
 
 ## 3. Macro e banche centrali
 
-- **Fed: nessuna voce fino al 28 ottobre.** Il periodo di blackout pre-riunione azzera i discorsi dei governatori; dopo l'inflazione di settembre sopra le attese (CPI 3,7% annuo contro 3,6% atteso, PPI +1,3% mensile, dati della scorsa settimana) i mercati oscillano sulle probabilità di un rialzo a ottobre, con stime tra fonti divergenti (17-37%) e dicembre molto più prezzato. La lettura è che il petrolio vicino a 110 dollari tiene la Fed in modalità hawkish [Bloomberg, 18 ott; Rabobank, 15 ott come contesto].
-- **Cina: il dato di crescita sposta poco la politica monetaria.** La riaccelerazione è trainata dall'export, e con consumi e investimenti deboli lo stimolo mirato resta il canale più probabile; la lettura è nostra, non di Pechino [CNBC, 19 ott].
+- **Fed: la riunione del 28 ottobre è vista come una conferma dei tassi.** I mercati scontano una probabilità di rialzo di circa il 12-15% (hold intorno all'87%), con il target al 3,75-4,00%; dopo il CPI sopra le attese di settembre ogni dato è un possibile catalizzatore. La lettura è che il petrolio tenga la Fed in posizione hawkish senza spingerla ancora a muoversi [CNBC, 19 ott; Kalshi/Polymarket via Investing.com, 19 ott].
 
 ## 4. Mercati
 
-- **Equity.** Venerdì il Russell 2000 ha perso l'1,7% a 2.721,37; Micron −5,6% e Intel −5,8%. In Asia il Nikkei aveva chiuso venerdì a 65.324,29 (+1,39%) e il Kospi a 5.668,05 (+2,05%); stamattina il Nikkei apre in calo dello 0,6% circa e l'ASX 200 sale dello 0,3%. La divergenza tra Asia e Nasdaq mostra che la correzione resta, per ora, concentrata su AI e semiconduttori statunitensi [La Nación, 16 ott; CNBC, 18 ott; Newsquawk, 19 ott].
-- **Obbligazionario e volatilità.** Il livello del rendimento Treasury a 10 anni e del VIX di venerdì non è disponibile al momento della redazione. A metà settimana il 10 anni era vicino a 5,3% dopo il CPI (contesto) [XTB, 15 ott].
+- **Rendimenti e dollaro.** Il Treasury decennale è in area 5,08-5,14% (le fonti divergono di qualche punto base, intorno a +6 pb a fine seduta secondo Babypips) e il dollar index a circa 102,0 (+0,2%); lo yen è la major più debole (−0,4% circa). Un dollaro e tassi reali alti frenano l'oro e pesano sui mercati emergenti [Babypips, 19 ott; Trading Economics, 19 ott].
+- **Europa e Asia.** FTSE MIB −1,5% a 49.086, CAC 40 −1,2%; Bund decennale a circa 3,45% e OAT al 4,92-4,93% secondo Radiocor. In Asia Hang Seng in calo di circa l'1%, con SoftBank a −4,5% circa in apertura. Il mercato sta penalizzando i temi AI/memory più sensibili al costo del capitale [Il Sole 24 Ore, 19 ott; AP, 20 ott; Invezz, 20 ott].
 
 ## 5. Valute, energia e materie prime
 
-- **Petrolio.** Brent a 108,80 dollari stamattina (−1%), WTI intorno a 101,2 (−0,2%); sulla settimana il WTI guadagna circa l'8%, con livelli di chiusura di venerdì che divergono tra fonti di un paio di dollari. Spinte opposte: attacchi nel Golfo e sulle raffinerie russe contro la deroga sulle sanzioni russe [Bloomberg, 18 ott; CNBC/Reuters, 18 ott].
-- **FX e metalli.** Dollar index, EUR/USD, USD/JPY e oro: livello non disponibile al momento della redazione.
+- **Oro e petrolio.** Spot gold a 4.143,91 dollari l'oncia (−0,5%), non protetto dal bid da safe haven perché dollaro e rendimenti salgono. Brent intorno a 107-108 dollari (−2% circa); i livelli differiscono tra fonti per orario di rilevazione [CNBC, 19 ott; Kalkine, 19 ott].
 
 ## 6. Supply chain, trade e industria
 
-- **Il collo di bottiglia è Hormuz.** Con flussi quasi dimezzati rispetto all'anteguerra e navi mercantili colpite da mine e missili, l'assicurazione marittima e i noli di tanker restano il canale di trasmissione; i dati sui noli odierni non sono stati verificati [Bloomberg, 18 ott].
+- **Hormuz: oltre 10 incidenti confermati su navi commerciali.** I transiti sono in forte calo e i flussi di greggio dal Golfo sono dimezzati o più rispetto al periodo prebellico; chi dipende da forniture via Golfo deve ipotizzare costi assicurativi e noli elevati per settimane [Mansfield Energy, 19 ott].
 
 ## 7. Corporate e tecnologia
 
-- **Stagione degli utili e finanziamento dell'AI.** CoreWeave ha perso circa il 12% nell'ultima seduta della scorsa settimana, simbolo dei timori sul debito che finanzia i data center; al via i risultati dei big tech (Meta e Tesla citati nelle anteprime, date da confermare). Il mercato chiede di vedere la spesa AI tradotta in ricavi: una delusione sui capex o sulla guidance estenderebbe la correzione [Yahoo Finance, 17 ott; CNBC, 18 ott].
-
-## 8. Mondo — fatti rilevanti oltre il business
-
-- **Francia: proteste giovanili di massa.** Secondo CNN circa mezzo milione di persone è sceso in piazza sabato 17 ottobre dopo settimane di blocchi nei licei e mobilitazione contro costo della vita e tagli all'istruzione; Macron promette di chiamare a rispondere chi ha cercato di "far cadere la Repubblica". A Milano la polizia si è scontrata per il secondo giorno con manifestanti con lacrimogeni e idranti. A inizio ottobre il governo aveva parlato delle proteste più violente da decenni, con centinaia di arresti. I numeri di partecipazione divergono tra governo e sindacati [CNN, 17 ott; Reuters via CNN, 17 ott; Reuters, 6 ott come contesto].
+- **M&A: giornata vivace oltre l'AI.** Daiichi Life ha offerto per il 79,5% di Challenger che non possiede (valutazione A$8,1 miliardi, premio di quasi il 20%); Tradeweb acquista Trumid per 1,97 miliardi di dollari; secondo il Wall Street Journal SoftBank è in trattative preliminari per Allied Universal, fino a 18 miliardi (nessun termine confermato). Segnale di consolidamento nei servizi finanziari e di credito alle operazioni di grandi dimensioni nonostante i tassi [Breakingviews, 20 ott; Everhint (aggregatore) su comunicati societari e WSJ, 19 ott — [fonte secondaria]].
 
 ## 9. Implicazioni per il business
 
-- **Costo del capitale.** Con petrolio sopra i 100 dollari, inflazione al 3,7% e rendimenti decennali americani intorno al 5,3% nei giorni scorsi, un rialzo Fed a fine mese o a dicembre non è uno scenario residuale: rivedere i piani di rifinanziamento e coperture sui tassi prima del 28 ottobre.
-- **Costi e continuità.** Hormuz a metà flusso e raffinerie russe sotto attacco rendono volatili diesel e carburanti per logistica; valutare clausole di indicizzazione carburante e scorte nelle catene che passano dal Golfo e dal Mar Rosso.
-- **Valutazioni tech.** La correzione dei chip riduce il valore delle partecipazioni in AI e può irrigidire il credito per progetti di data center; i contratti di capacità cloud andrebbero riletti per la solidità delle controparti.
+- **Costo del capitale.** Con Treasury a 5,1% e OAT vicino al 5% il rifinanziamento resta caro; chi ha debito da rinnovare nel 2027 dovrebbe valutare coperture o emissioni anticipate.
+- **Input e logistica.** Energia e noli dal Golfo restano il principale fattore di rischio sui costi; la deroga russa su diesel, se confermata, può alleggerire solo i distillati.
+- **Esposizione valutaria e tecnologica.** Dollaro forte e yen debole pesano sui margini in euro e yen per chi fattura in dollari; la volatilità dei titoli AI rende incerti i piani di capex dei fornitori di infrastruttura.
 
 ## 10. Italia in breve
 
-- **Piazza Affari e BTP in tenuta.** Venerdì il FTSE MIB ha chiuso a 49.857 punti (+0,93%) e lo spread BTP-Bund a 106 punti base (circa −1), con il rendimento del BTP decennale al 4,48%; il Bund era intorno al 3,4%. Il dato mostra che il debito italiano non risente per ora dello shock energetico. Dbrs aveva in calendario la revisione del rating (attuale A low, outlook stabile) il 16 ottobre: l'esito non è disponibile [ANSA, 16 ott; ANSA, 16 ott].
+- **Borsa e spread.** Il FTSE MIB chiude a 49.086 (−1,5%) con Stellantis e banche tra i titoli più deboli; il BTP-Bund sale a 111,3 punti (106 venerdì) e il rendimento del decennale al 4,56% [ANSA, 19 ott; Il Sole 24 Ore/Radiocor, 19 ott; FIRSTonline, 19 ott].
+- **Collocamento del BTP Valore.** Al via lunedì: alle 15:27 il titolo tradizionale superava 2,8 miliardi e il Valore Insieme quasi 1 miliardo, con oltre 2 miliardi in circa tre ore secondo l'ANSA [ANSA, 19 ott].
 
 ## 11. Agenda — prossime 72 ore
 
-- **Lun 19 ott:** Lavrov a Teheran; avvio della stagione utili dei big tech nella settimana (date da confermare).
-- **Mar 20 – Gio 22 ott:** calendario puntuale di dati e utili non verificato al momento della redazione.
-- **Ven 23 ott (appena oltre l'orizzonte):** PMI flash e fiducia University of Michigan.
-- **28 ott:** decisione Fed; **28-29 ott:** riunione BCE.
-- **Elezioni in Israele:** attese la prossima settimana, data non verificata [Reuters, 18 ott; CNBC, 18 ott].
+- **Mar 20 ott:** risultati Netflix a mercati chiusi.
+- **Mer 21 ott:** Meta, IBM, Texas Instruments, Lam Research, SAP; Tesla dopo la chiusura.
+- **Gio 22 ott:** richieste settimanali di sussidi di disoccupazione USA.
+- **Ven 23 ott:** PMI flash S&P Global di ottobre (manifattura attesa 55,5, servizi 58,0, da fonte singola).
+- **Fino a fine mese:** BTP Valore in collocamento; **28 ott** decisione Fed (ore 20:00 CEST).
 
 ## 12. Market Mover del giorno
 
-**Hormuz e Brent intorno a 110 dollari.** È la variabile che lega inflazione, aspettative sulla Fed e tenuta del risk sentiment. Conferma: nuovi attacchi o chiusure effettive dello Stretto e Brent sopra 110. Smentita: apertura concreta dello Stretto sulla proposta iraniana a sette giorni o Brent sotto 105.
+**Hormuz e Brent.** È la variabile che alimenta inflazione, rendimenti e aspettative sulla Fed. Lo confermerebbe un Brent stabilmente sopra 110 dollari con ulteriori incidenti su navi; lo smentirebbe una riapertura negoziata dei transiti o un calo del Brent sotto 100.
 
 ## 13. Risk Sentiment
 
-🟠 **Cautious / selettivo risk-off sulla tecnologia, con segnali contraddittori.** Nasdaq −4,5% in settimana e semiconduttori in forte calo (una fonte indica −11,4% sulla settimana), Brent a 109 e inflazione al 3,7% pesano; al contrario il Dow tiene (+0,7% in settimana), i future rimbalzano (+0,8% S&P) e il Nikkei vicino a 65.000 e il Kospi in rialzo indicano che non è una fuga generalizzata. VIX e rendimento Treasury di venerdì non disponibili: la lettura resta parziale.
+🟠 **Cautious / Risk-off selettivo.** Il VIX non è disponibile; i segnali sono contrastanti: i semiconduttori rimbalzano (SOX +1,6%) ma Kospi −2,4% circa, Treasury decennale sopra il 5%, dollar index a 102, OAT-Bund a 145 punti e oro in calo nonostante il rischio geopolitico, un segnale di stress da tassi più che di fuga verso il rifugio.
+
+## 14. Sotto il radar
+
+- **Scadenza terre rare senza testo giuridico.** La discrepanza tra la lettura Usa (tregua fino al 10 gennaio 2027) e l'assenza di un atto pubblicato da Pechino può creare una finestra di rischio su magneti e componenti prima del 10 novembre [Technology.org, 19 ott].
