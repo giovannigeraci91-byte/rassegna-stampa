@@ -1,73 +1,60 @@
-# Rassegna Stampa — mercoledì 21 ottobre 2026
+# Rassegna Stampa — giovedì 22 ottobre 2026
 
-*Redazione chiusa alle ore 08:20 CEST. Finestra di freschezza: 36 ore, da lunedì 19 ottobre sera. Non disponibili o non verificati al momento della redazione: dato ONS sul CPI UK di settembre (in uscita alle 07:00 BST), esito del voto francese del 20 ottobre sulla parte entrate del bilancio, VIX, EUR/USD e USD/JPY (livelli), rame, gas europeo. Dove le fonti divergono sui livelli, il dato è indicato come approssimativo.*
+*Redazione chiusa alle ore 08:15 CEST. Finestra di freschezza: 36 ore, da mercoledì 21 ottobre mattina. Non disponibili o non verificati al momento della redazione: esito e data certa del voto francese sulle entrate del bilancio 2027 (le fonti indicano il 20 ottobre o il 3 novembre), VIX, rame, gas europeo, noli marittimi, livelli di chiusura finali delle borse asiatiche (i valori sono snapshot di sessione).*
 
 ## 1. Le tre cose che contano oggi
 
-- **Gli utili AI riaccendono l'Asia dopo otto sedute di vendite sui chip**: SpaceX segnala ricavi del terzo trimestre a circa 14,6 miliardi di dollari (+161%) con utile di 4,4 miliardi, e Super Micro alza la guidance (titolo +14-16% after hours); stamattina il Kospi guadagna tra il 3% e il 3,7%, Samsung e SK Hynix salgono del 5-7%. Conta perché il dubbio sul ritorno degli investimenti in AI è il fattore che ha guidato il ribasso dei semiconduttori, e oggi arrivano Meta, Tesla, IBM, Lam e Texas Instruments: la lettura è che il rimbalzo resti fragile finché la spesa in conto capitale (19,6 miliardi per SpaceX nel trimestre) non è giustificata dai ricavi [Axios, 20 ott; Yahoo Finance, 21 ott; Investing.com, 21 ott].
-- **Hormuz resta chiuso e il Brent sta a 108,79 dollari**: il greggio ha toccato 111,99 (massimo da cinque mesi) per poi chiudere in calo dello 0,7% dopo indiscrezioni non confermate di stampa israeliana su un compromesso Usa-Iran; Teheran però chiede la fine di sanzioni e minacce prima di trattare, e i flussi nell'area sono scesi a circa 8,5 milioni di barili al giorno da oltre 20. Conta perché l'energia è il canale d'inflazione che tiene alti i rendimenti e sposta le attese sulla Fed verso un rialzo [Fox News/Reuters, 20 ott; Kpler via Kalkine, 19 ott; CBS News, 20 ott].
-- **Parigi sotto stress, spread OAT-Bund a circa 152 punti**: dopo il weekend di proteste sul costo della vita e con un governo senza maggioranza, il decennale francese è vicino al 4,96%, sopra i livelli dell'Italia (BTP-Bund a 112). Il voto del 20 ottobre sulle entrate del bilancio 2027 è un test più che un punto di rottura (l'analogo del 2026 fu bocciato 404 a 1 e il bilancio passò comunque), ma l'esito non era disponibile alla chiusura [CNBC, 19 ott; ANSA, 20 ott; Daybreak Wire, 20 ott].
+- **Il fronte saudita si scalda e il Brent resta sopra 108 dollari**: un drone diretto all'impianto di Shaybah di Saudi Aramco è stato intercettato, ma i detriti hanno ucciso due lavoratori stranieri; il ministero dell'Energia esclude impatti sulla produzione, Washington ha ordinato la partenza del personale non essenziale dall'ambasciata e il greggio è tornato sopra 110 dollari in Asia. Conta perché Shaybah e l'oleodotto Est-Ovest sono le alternative a Hormuz: un attacco riuscito toglierebbe l'ultimo cuscinetto. Il Brent ha chiuso mercoledì a 108,82 (+0,03), il WTI a 97,15 (−0,67, effetto scadenza del contratto) [The National, 22 ott; The Hill, 22 ott; Newsquawk, 22 ott].
+- **L'Asia rivende i chip dopo il rimbalzo di mercoledì**: Kospi in calo di quasi il 2% verso quota 5.635 (dopo il +3,29% di ieri), Nikkei −1,6% sotto 64.000, Hang Seng −2,4% a circa 23.076, con il mercato che si chiede se la domanda di chip giustifichi la spesa in AI e il petrolio che risale. Conta perché a Wall Street i semiconduttori avevano guidato la risalita (SOX +1,97% a 11.505,56) e i future Usa sono ora in calo di circa 0,7% dopo Meta e Tesla: il rimbalzo si conferma fragile [France24/AFP, 22 ott; Investing.com, 22 ott; CNBC, 22 ott].
+- **Regno Unito: inflazione al 3,5% contro il 3,4% atteso**: l'ONS segnala CPI di settembre al 3,5% annuo da 3,1% di agosto, core al 2,8% (da 2,6%) e servizi al 3,7%, con i carburanti a +29,8% annuo. Conta perché rafforza la scommessa su un rialzo della Bank of England alla prossima riunione e conferma che lo shock energetico sta passando ai prezzi core [ONS, 21 ott; FXStreet, 21 ott].
 
 ## 2. Geopolitica e policy
 
-- **Iran, negoziato in stallo.** Il presidente Pezeshkian chiede la revoca delle sanzioni e la fine delle minacce prima di aprire un tavolo, mentre Araghchi ribadisce che lo Stretto resta chiuso finché Washington non accetta il piano in sette giorni e che l'uranio arricchito non lascerà il paese; Trump ha respinto il piano. Conseguenza: nessuna via d'uscita rapida, e il premio di rischio sul greggio non si sgonfia [Fox News, 20 ott; CBS News, 20 ott].
-- **Arabia Saudita–Houthi, rischio di allargamento.** Riad accusa gli Houthi di un attacco missilistico al terminal di un aeroporto di Riyadh (12 morti, non rivendicato) e Trump dice di valutare un'adesione ai raid sauditi; gli Houthi minacciano ritorsioni contro gli Usa, mentre Teheran nega ogni coinvolgimento. Il rischio è un secondo fronte sulle infrastrutture energetiche saudite; la cronologia degli attacchi è provvisoria [CBS News, 20 ott; Gulf News, 20 ott — parte [non confermato] sulle date].
+- **Penisola arabica: escalation sulle infrastrutture energetiche.** Oltre all'attacco a Shaybah, secondo le fonti anche l'oleodotto Est-Ovest saudita è stato colpito in precedenza e Riad ha risposto con raid sulle postazioni missilistiche; l'attribuzione agli Houthi è la lettura prevalente, ma il ministero non ha nominato i responsabili [[non confermato] sull'autore]. Conseguenza: il premio di rischio sull'energia resta strutturale e le compagnie con personale nel Golfo dovranno rivedere i piani di evacuazione [The National, 22 ott; Business Recorder, 22 ott; The Hill, 22 ott].
+- **Francia: tensione sociale e bilancio senza maggioranza.** Dopo il weekend di proteste violente su costo della vita e servizi pubblici, il governo Lecornu non ha una maggioranza per la parte entrate del bilancio 2027; le fonti divergono sulla data del voto (20 ottobre o 3 novembre), e al momento non risulta una mozione di sfiducia depositata. Il rischio è che il voto diventi un referendum sul governo e riapra la tensione sui titoli di Stato [CNBC, 19 ott; Rio Times, 20 ott].
 
 ## 3. Macro e banche centrali
 
-- **UK: oggi il CPI di settembre, BoE vicina al rialzo.** Il consenso vede l'inflazione al 3,4% da 3,1% (core 2,7-2,8%), spinta da carburanti ed energia; la Bank of England ha tenuto il tasso al 3,75% a settembre con voto 6-3 (tre membri per il rialzo a 4,0%) e i mercati prezzano quasi per intero +25 punti base il 5 novembre. Un dato sopra il consenso confermerebbe il rialzo; uno sotto lo renderebbe meno scontato [FXStreet, 21 ott; Investinglive, 21 ott].
-- **Fed: hold atteso il 28 ottobre, ma rialzo a dicembre prezzato all'89-94%.** Il decennale Usa è intorno al 5,12-5,14% (−0,02 su Yahoo Finance), spinto dal petrolio; le fonti divergono sulle probabilità esatte. La lettura è che la Fed non agisca la prossima settimana ma lasci aperta la porta [USAGold, 20 ott; Yahoo Finance, 20 ott].
+- **Fed: hold atteso il 28 ottobre, rialzo a dicembre prezzato all'88% circa.** Quasi tutti gli economisti Reuters si aspettano nessuna mossa questo mese e un rialzo a dicembre; le fonti divergono tra 88% e 92% sulla probabilità. La lettura è che il petrolio stia tenendo in vita l'ipotesi di una Fed restrittiva [Reuters via Investing.com, 21 ott; FXStreet, 21 ott].
+- **Bank of Korea ferma al 3%.** La banca centrale coreana ha lasciato i tassi invariati mentre i suoi titoli chiave vendevano in Borsa; il tono prudente riflette il doppio rischio di petrolio caro e volatilità sui chip [Investing.com, 22 ott].
 
 ## 4. Mercati
 
-- **Wall Street**: S&P 500 +0,3% a 7.712,52, Dow +1,02% a 52.495,88, Nasdaq Composite praticamente piatto a 26.424,82; l'indice dei semiconduttori SOX cede lo 0,3% restituendo parte del rimbalzo di lunedì, dopo otto sedute di calo e una correzione di circa il 10% dai massimi [Yahoo Finance/Reuters, 20 ott].
-- **Asia, sessione di oggi**: Kospi +3-3,7% (le stime variano), Nikkei circa +1%, MSCI Asia Pacific +1,1%; Hang Seng −0,2% e CSI 300 −0,7%. Il rimbalzo è guidato quasi solo dai chip, non è una ripresa ampia [Investing.com, 21 ott; BigGo Finance, 21 ott].
-- **Europa**: FTSE MIB −0,03% a 49.071, con Saipem −4,28% e Enel +2%; il CAC 40 ha pagato lunedì le tensioni sul bilancio francese. Il petrolio ha penalizzato i titoli energetici, i difensivi hanno tenuto [ANSA, 20 ott; Milano Finanza, 20 ott].
+- **Wall Street (chiusura 21 ott)**: S&P 500 +0,58% a 7.757,17 (terzo rialzo di fila), Dow +0,7% a 52.856,09 (massimo da un mese), Nasdaq +circa 1%. SpaceX ha guidato il rally (titolo in rialzo di quasi l'8%); i semiconduttori sono saliti sull'onda dei suoi risultati [Yahoo Finance, 21 ott; CNBC, 22 ott].
+- **Dopo la chiusura**: Meta ha riportato ricavi a 64,6 miliardi (+26%), sopra le attese, ma l'utile per azione è sotto per un onere legale di 9,89 miliardi; titolo +2% after hours. Tesla ha dato risultati superiori alle attese secondo CNBC, mentre Yahoo Finance parla di ricavi sotto il consenso: le fonti divergono e il titolo è in calo di circa il 3% after hours [CNBC, 22 ott; Yahoo Finance, 22 ott].
+- **Europa e Italia**: il FTSE MIB ha chiuso a 49.643 (+1,17%) con Technoprobe, Tim e Prysmian in evidenza. Sul fronte francese, il rendimento del decennale è vicino al 4,8-5% (massimi dal 2008) e lo spread OAT-Bund era a 137,4 punti base il 16 ottobre, ai massimi dalla crisi dell'euro; le fonti riportano livelli diversi più recenti, per cui il dato non è verificato per oggi [ANSA, 21 ott; Investment House, 18 ott; CNBC, 19 ott].
 
 ## 5. Valute, energia e materie prime
 
-- **Petrolio**: Brent 108,79 dollari (−0,7%, dopo 109,55 di lunedì), WTI 101,79 dopo un picco sopra 110 in giornata. La deroga di Trump alle sanzioni sull'energia russa, con una finestra di valutazione fino a 60 giorni, non compensa la perdita di flussi dal Golfo [Reuters via Fox News, 20 ott; Kalkine, 19 ott].
-- **Oro**: spot circa 4.124 dollari (−0,4%), frenato dai rendimenti reali più alti; l'argento regge (SLV +1,13%). Il dollaro è in direzione incerta (fonti contrastanti, indice intorno a 102) [USAGold, 20 ott; Rio Times, 20 ott]. EUR/USD a 1,1253 al fixing Banque de France del 16 ott, ultimo livello verificato [Banque de France, 16 ott].
-
-## 6. Supply chain, trade e industria
-
-- **Noli container in rimbalzo**: il Drewry World Container Index sale del 3% a 4.485 dollari per container da 40 piedi (rilevazione del 15 ott), dopo tre settimane di calo, trainato dalla rotta Asia-Europa; Shanghai–Los Angeles +3% a 7.884 dollari. Drewry prevede stabilità a breve. Per chi spedisce significa fine dell'effetto sconto post-Golden Week [Drewry, 15 ott].
-- **Terre rare: pausa cinese in scadenza il 10 novembre.** Pechino non ha pubblicato un testo giuridico a copertura della tregua che Washington dice valida fino a gennaio 2027; incertezza sulle filiere di magneti nelle prossime tre settimane [Technology.org, 19 ott; CNBC, 15 ott come contesto].
+- **Petrolio**: Brent a 108,82 dollari (+0,03) in chiusura, ma di nuovo sopra 110 in Asia; WTI a 97,15 (−0,67, scadenza del contratto novembre). Le scorte Usa mostrano un calo di 3,06 milioni di barili, più ampio del previsto (dato da fonte secondaria). Il massimo di martedì a 111,99 è il livello più alto da cinque mesi [Newsquawk, 22 ott; EnergyNow, 21 ott].
+- **Valute e oro**: indice del dollaro intorno a 101,9 (−0,1%), EUR/USD vicino a 1,122, in scivolamento da circa un mese per le tensioni fiscali francesi, USD/JPY intorno a 158 con l'incertezza sui tempi del prossimo rialzo BoJ. L'oro spot è a 4.137,94 dollari (+0,3%), con il decennale Usa in calo per la seconda seduta; l'oro resta frenato dalle attese di rialzo Fed [FXStreet, 22 ott; Reuters via Investing.com, 21 ott].
 
 ## 7. Corporate e tecnologia
 
-- **SpaceX incorpora l'AI nei conti**: la divisione AI, nata dall'acquisizione di xAI a febbraio, genera 7,6 miliardi di ricavi nel trimestre; il capex a 19,6 miliardi mostra quanto costi la corsa ai modelli. Per i concorrenti il benchmark sui margini sale [Axios, 20 ott; ABC News, 20 ott; Yahoo Finance, 21 ott].
-
-## 8. Mondo — fatti rilevanti oltre il business
-
-- **Sudan, rischio carestia.** Attacchi con droni hanno ucciso almeno 19 persone, tra cui 10 bambini, in più stati; circa 20 milioni di persone sono in insicurezza alimentare acuta e il piano di risposta ONU è finanziato solo al 43% circa [Rio Times, 20 ott; allAfrica, 20 ott — [fonte secondaria], da confermare con ONU/wire].
-- **Congo (RDC), Ebola in un ottavo provincia.** L'epidemia si estende e ci sono dubbi sulla destinazione di circa 700 milioni di dollari di aiuti [allAfrica, 20 ott — [non confermato] da OMS/wire].
+- **SpaceX e il test della spesa AI.** SpaceX ha messo a segno un balzo del 8% circa mercoledì e Musk ha detto che una fusione SpaceX–Tesla sarebbe "una buona idea" (commento, non un'operazione annunciata). Con Meta che spende in modo aggressivo e un onere legale da 9,89 miliardi, la domanda per i prossimi giorni è se i ricavi giustifichino il capex; Microsoft e Alphabet riferiscono il 28 ottobre [Yahoo Finance, 21 ott; CNBC, 22 ott].
 
 ## 9. Implicazioni per il business
 
-- **Costo del capitale**: con il decennale Usa oltre il 5% e un rialzo Fed a dicembre scontato quasi per intero, il rifinanziamento 2027 va pianificato su tassi alti più a lungo; la possibile mossa della BoE il 5 novembre vale per le esposizioni in sterline.
-- **Energia e margini**: Brent sopra 105 con rischio di ulteriori attacchi alle infrastrutture del Golfo rende prudente coprire il fabbisogno di carburante e feedstock a 3-6 mesi; il rimbalzo dei noli Asia-Europa aggiunge pressione sui costi logistici.
-- **Rischio sovrano europeo**: lo spread francese sopra quello italiano può aumentare il costo di emissione per i corporate francesi e penalizzare le banche con grandi portafogli di OAT.
+- **Energia e logistica nel Golfo**: con il Brent sopra 108 e il rischio di attacchi a Shaybah e all'oleodotto Est-Ovest, conviene coprire il carburante e i costi di trasporto con orizzonti più lunghi e verificare i piani di continuità per il personale nella regione dopo l'ordine di partenza dell'ambasciata Usa.
+- **Costo del capitale**: Fed ancora vista in rialzo a dicembre e BoE verso un rialzo; chi ha rifinanziamenti nel 2027 dovrebbe anticipare le emissioni o rinegoziare le coperture sui tassi, soprattutto con le tensioni sul debito francese che allargano gli spread europei.
+- **Esposizione valutaria**: euro debole per lo stress francese e yen a 158; chi ha ricavi in dollari ne beneficia, chi acquista energia in dollari ne soffre.
 
 ## 10. Italia in breve
 
-- **Piazza Affari piatta, spread a 112.** Il FTSE MIB chiude a 49.071 (−0,03%) assorbendo il calo dell'energia (Saipem −4,28%); lo spread BTP-Bund è a 112,4 punti, mentre quello francese si è portato a circa 152 [ANSA, 20 ott; Milano Finanza, 20 ott].
+- **Piazza Affari in rialzo, spread BTP-Bund a 115,7.** Il FTSE MIB ha chiuso a 49.643 (+1,17%) mentre il differenziale è salito a 115,7 punti base (da 112,4 il giorno prima) con il decennale al 4,57% [ANSA, 21 ott].
+- **Italia meno rischiosa della Francia sul mercato.** Il decennale italiano (4,57%) rende meno di quello francese (vicino a 4,8-5%), un'inversione rispetto agli anni passati; il differenziale resta sensibile alle tensioni mediorientali che avevano portato lo spread a 131 il 2 ottobre, massimo da aprile 2025 [ANSA, 21 ott; Sky TG24, 2 ott].
 
 ## 11. Agenda — prossime 72 ore
 
-- **Mer 21 ott**: CPI UK settembre (07:00 BST; consenso 3,4%); dopo la chiusura Usa, Meta, Tesla, IBM, Lam Research e Texas Instruments.
-- **Gio 22 ott**: CPI Giappone di settembre.
-- **Ven 23 ott**: PMI flash di ottobre per Eurozona e Usa.
-- **Oltre la finestra**: Fed 27-28 ott; BoJ 30 ott; BoE 5 nov; scadenza pausa cinese sulle terre rare 10 nov; voto francese sull'intero bilancio 17 nov [Heygotrade, 19 ott; CMC Markets, ott; Daybreak Wire, 20 ott].
+- **Oggi, 22 ott**: reazioni dei mercati ai risultati di Meta e Tesla; apertura europea condizionata dal calo dei future Usa.
+- **27-28 ottobre**: riunione FOMC, decisione il 28; lo stesso giorno i risultati di Microsoft e Alphabet [Schwab, ott].
+- **29 ottobre**: decisione BCE alle 14:15 CET (conferenza stampa 14:45) e, alle 8:30 ET, PIL Usa del terzo trimestre e PCE di settembre [Admiral Markets, ott].
+- **3 novembre**: elezioni di metà mandato Usa e, secondo alcune fonti, voto francese sulle entrate del bilancio 2027 (data da confermare).
 
 ## 12. Market Mover del giorno
 
-**La stagione degli utili AI: Meta e Tesla stasera.** Se Meta conferma i ricavi attesi (circa 63 miliardi) senza alzare ancora il capex oltre le attese, il rimbalzo dei chip trova sostegno; una spesa in aumento senza ricavi aggiuntivi riporterebbe sotto pressione i semiconduttori asiatici [Yahoo Finance, 19 ott; CMC Markets, ott].
+**Il petrolio sopra 110 dollari dopo l'attacco a Shaybah.** È la variabile che alimenta le attese di rialzo Fed, pesa sull'inflazione e sull'azionario asiatico. Lo confermerebbe un Brent stabile sopra 111,99 o un nuovo attacco alle infrastrutture saudite; lo smentirebbe una chiusura sotto 105 con l'avvio di un negoziato Usa-Iran verificabile.
 
 ## 13. Risk Sentiment
 
-**⚖️ Cautious / Mixed.** Segnali contraddittori: azionario Usa in rialzo (S&P +0,3%) e Kospi +3%+, ma decennale Usa oltre il 5,1%, Brent a 108,79, oro in calo a 4.124 e spread francese a 152 punti. VIX non disponibile. La lettura è di un mercato che rimbalza sui fondamentali dell'AI ma resta ostaggio di energia e tassi.
-
-## 14. Sotto il radar
-
-- **Corea del Sud come termometro dell'AI.** L'oscillazione quotidiana del Kospi (−2,8% lunedì, +3-3,7% oggi) e il balzo del 30% di un piccolo fornitore di calcolo AI (Elice) indicano che l'economia coreana è diventata un proxy ad alta leva sul ciclo di spesa AI globale [Invezz, 20-21 ott; BigGo Finance, 21 ott — [fonte secondaria]].
+**🟠 Cautious, con rischio di risk-off.** Segnali contraddittori: S&P 500 a 7.757 e Dow ai massimi da un mese dicono risk-on, ma i future Usa a −0,7%, il Kospi/Nikkei/Hang Seng in calo di 1,6-2,4% e il Brent oltre 110 indicano fragilità. L'oro a circa 4.138 e il dollaro debole (indice ~101,9) non segnalano una fuga verso i beni rifugio. VIX non verificato.
