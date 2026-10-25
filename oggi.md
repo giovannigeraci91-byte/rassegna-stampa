@@ -1,61 +1,73 @@
-# Rassegna Stampa — sabato 24 ottobre 2026
+# Rassegna Stampa — domenica 25 ottobre 2026
 
-*Redazione chiusa alle ore 08:30 CEST. Finestra di freschezza: 36 ore, dalla sessione di venerdì 23 ottobre; mercati chiusi per il weekend. Non disponibili o non verificati al momento della redazione: settlement ufficiale di Brent (le fonti riportano valori tra 113 e 117 dollari), chiusura esatta del Treasury a 10 anni (le fonti divergono: 4,96-4,97%), VIX, rame, gas europeo, noli marittimi.*
+*Redazione chiusa alle ore 08:10 CEST. Finestra di freschezza: 36 ore, dalla sessione di venerdì 23 ottobre; mercati chiusi per il weekend, quindi i livelli sono quelli di venerdì. Non disponibili o non verificati al momento della redazione: VIX, gas europeo, esito della revisione Moody's sulla Francia del 23 ottobre, indici asiatici di venerdì, livelli esatti di alcune chiusure (le fonti divergono di poco).*
 
 ## 1. Le tre cose che contano oggi
 
-- **Il Brent tocca i 117 dollari, massimo da fine aprile, sui timori di escalation nel Golfo**: il greggio ha chiuso la terza settimana consecutiva di rialzo (circa +6%), con il WTI sopra i 103 dollari, dopo gli attacchi Houthi a infrastrutture saudite e i timori per il traffico a Hormuz. Conta perché energia a questi livelli alimenta le attese di nuove strette delle banche centrali proprio nella settimana di Fed, BCE e BoJ [Business Recorder, 23 ott; Yahoo Finance, 23 ott].
-- **Moody's conferma il rating della Francia (Aa3) ma lascia l'outlook negativo**: il downgrade atteso non c'è stato, ma il decennale francese è salito fino al 5,14%, massimo dal 2002, tra proteste nazionali e braccio di ferro sulla manovra da 54 miliardi di euro. Conta perché la Francia è il punto debole del debito sovrano dell'eurozona e l'outlook negativo lega il rating alla tenuta politica [CNBC, 23 ott; Bloomberg, 23 ott].
-- **Wall Street chiude in calo prima della Fed**: S&P 500 a 7.623,68 (-0,52%), Dow Jones a 52.215,16 (-1,23%), Nasdaq a 25.955,34 (-0,21%), con petrolio in rialzo e residuo timore sull'AI. Sulla settimana S&P -0,5%. Conta perché il mercato arriva al FOMC con equity sotto pressione e rendimenti elevati [CNBC, 23 ott; Yahoo Finance, 23 ott].
+- **Il Brent chiude a 116,72 dollari (+3,1%), massimo da fine aprile, sul timore di nuovi attacchi USA all'Iran**: il WTI sale del 3,8% a 103,27 dollari, mentre Teheran condiziona la normalizzazione di Hormuz all'accettazione di sue sette condizioni. Conta perché energia a questi livelli alimenta inflazione e attese di nuove strette proprio nella settimana di Fed, BCE e BoJ [CNBC, 23 ott; Reuters, 23 ott].
+- **Wall Street chiude in calo alla vigilia del FOMC**: Dow Jones a 52.215,16 (-1,23%), S&P 500 a 7.623,68 (-0,52%), Nasdaq a circa 25.955 (-0,2%), con oil sopra i 100 dollari e le tensioni USA-Iran a pesare. Il S&P 500 chiude la seconda settimana consecutiva in ribasso [CNBC, 23 ott; BBN Times, 23 ott].
+- **Il rendimento del Treasury a 10 anni torna al 5,00%** (da 4,96%), mentre il decennale francese si avvicina al 5,05% con lo spread sul Bund a circa 172 punti base, ai massimi dal 2011 secondo CNBC. Conta perché il costo del capitale globale resta ai livelli più alti da due decenni, con la Francia come punto debole dell'eurozona [U.S. Treasury, 23 ott; CNBC, 24 ott; Ideal Investisseur, 23 ott].
 
 ## 2. Geopolitica e policy
 
-- **Golfo e Hormuz**: gli Houthi hanno rivendicato attacchi a Yanbu e a un giacimento e un aeroporto sauditi, e Aramco ha evacuato la sede di Dhahran. Teheran sostiene di aver colpito sette petroliere; Trump ha definito le notizie false e sostiene che il traffico sia superiore a prima della guerra. I fatti confermati e le rivendicazioni iraniane non coincidono, e le cifre di Teheran non sono verificate in modo indipendente. Il rischio è che l'allargamento a Mar Rosso e infrastrutture saudite tolga il cuscinetto alternativo a Hormuz [Al Jazeera, 22 ott; Business Recorder, 23 ott; FinanceFeeds, 23 ott].
+- **Iran: escalation possibile nel fine settimana**: Reuters riporta che Trump valuta se chiudere il conflitto rapidamente o lasciarlo spegnersi, mentre un ambasciatore USA ha avvertito di possibili raid già nel weekend; il capo militare iraniano ha detto che le navi USA non entreranno nel Golfo, e un memo del DNI visto da Reuters segnala piani iraniani contro personale americano in "stadio avanzato". Mosca ospiterà il presidente iraniano la prossima settimana, il Pakistan media. Il rischio è che un nuovo ciclo di raid riporti Brent verso nuovi massimi; un'intesa su Hormuz sarebbe l'esito opposto, ma non c'è conferma pubblica degli USA a quanto affermato da Araghchi [Reuters, 23 ott; U.S. News, 23 ott].
+- **Francia: proteste in piazza e manovra a rischio**: secondo Fox News oltre 400.000 persone hanno manifestato sabato, con lacrimogeni e idranti a Parigi e scontri a Lione e Marseille; non ho trovato una dichiarazione ufficiale del governo (cifra del ministero dell'Interno citata da una fonte di parte, non verificata altrove). Analisti citati da CNBC dubitano che il budget 2027 passi in Parlamento. Il rischio è un ulteriore allargamento dello spread OAT-Bund [Fox News, 24 ott; CNBC, 24 ott].
+- **Ucraina-Russia: segnali di nuovi negoziati**: dopo il via libera "in linea di principio" di Putin, Kyiv e Mosca hanno concordato un cessate il fuoco locale nell'area di Kherson per far arrivare aiuti, dal 27 ottobre; i colloqui mediati dagli USA sono attesi a metà novembre, forse ad Abu Dhabi, ma le fonti divergono sulla data. Poche ore dopo l'apertura russa Mosca ha lanciato un attacco con missili e droni su Kyiv, e le richieste territoriali restano distanti [AP, 24 ott; 112.ua, 24 ott].
 
 ## 3. Macro e banche centrali
 
-- **Fed**: per il FOMC del 27-28 ottobre il CME FedWatch dà circa il 93% di probabilità di tassi invariati e il 7% di rialzo; per un rialzo entro dicembre le stime Reuters sono 78-81%, in calo dal 90% di inizio settimana. La lettura è che il mercato non si aspetta una mossa mercoledì ma prezza ancora una Fed restrittiva, quindi conta il tono della conferenza stampa [FXStreet, 23 ott; Reuters, 23 ott].
-- **Francia**: oltre al rating, il tema è fiscale: il governo di minoranza Lecornu ha detto che farà passare i tagli anche senza accordo parlamentare. Il rischio è un nuovo stress su OAT e spread periferici se il voto di bilancio salta [CNBC, 21 ott; Yahoo Finance, 23 ott].
+- **Fed**: per il FOMC del 27-28 ottobre le stime pre-meeting danno un rialzo con probabilità tra il 5% (LSEG) e il 9% (CME FedWatch), mentre per dicembre la probabilità è circa 84%; la decisione e la conferenza del presidente Warsh sono attese mercoledì alle 14:00 e 14:30 ET. Il mercato scommette su un hold con tono restrittivo, dopo un CPI di settembre al 3,7% contro il 3,6% atteso (core 2,6% contro 2,5%) [Reuters via Kitco, 23 ott; CNBC, 14 ott].
+- **BCE**: il consenso è un hold della deposit rate al 2,50% giovedì 29 ottobre; le tensioni sul debito francese stringono già le condizioni finanziarie, e il rialzo è più probabile a dicembre. L'inflazione eurozona è al 3,7% per effetto dell'energia, con trasmissione al core ancora contenuta [FXStreet, 20 ott; Euronews, 23 ott].
+- **BoJ**: la riunione del 30 ottobre è data in hold (97% sui mercati di previsione), con il prossimo rialzo atteso a dicembre dopo quello a 1,25% di settembre; è una lettura di mercato, non un annuncio [Japan Times, 21 ott].
 
 ## 4. Mercati
 
-- **Europa**: STOXX 600 a 635,77 (-0,31%, circa -1,4% sulla settimana); DAX -0,75%, CAC 40 -0,36%, FTSE 100 -0,32%, SMI -0,59%. Gli energetici hanno sostenuto l'indice (Shell +3,7%, BP +4,4%), mentre Kering ha perso il 16,6% dopo vendite Gucci deboli nel terzo trimestre e Safran il 10% dopo i conti [Reuters, 23 ott; RTTNews, 23 ott].
-- **Asia**: Nikkei 62.693,16 (-0,34%), Hang Seng 23.093 (+0,7%), Shanghai Composite 3.690,48 (+0,89%). Tokyo ha ceduto dopo il crollo dei chip di giovedì a Wall Street, Cina e Hong Kong hanno recuperato [CNBC, 23 ott; Reuters, 23 ott].
-- **Obbligazionario**: Treasury a 10 anni attorno al 4,97% (+1 pb secondo Trading Economics; la fonte è un aggregatore, il livello è indicativo), Bund decennale al 3,35%. Il rendimento resta lontano dai massimi decennali di inizio mese; la lettura è che i flussi rifugio dopo il sell-off tech abbiano compensato la spinta dell'energia [Trading Economics, 23 ott; ANSA, 23 ott].
+- **USA**: la seduta di venerdì ha penalizzato i ciclici (American Express e Caterpillar hanno trascinato il Dow), mentre i titoli legati ai data center AI restano sotto pressione: Meta ha ceduto circa il 3% dopo conti sopra le attese (EPS 7,40 dollari contro 6,54) ma capex in crescita, e l'indice dei semiconduttori è crollato del 6,7% mercoledì. La lettura è che il mercato stia ridiscutendo il ritorno sugli investimenti in AI mentre il costo del capitale sale [CNBC, 23 ott; 24/7 Wall St., 22 ott; Benzinga, 22 ott].
+- **Obbligazionario**: Treasury a 10 anni al 5,00%, +4 pb sul giorno dopo il calo di circa 19 pb di giovedì; Bund decennale al 3,33-3,34%. L'oscillazione riflette lo scontro tra flussi rifugio dopo il sell-off tech e spinta inflazionistica dell'energia [U.S. Treasury, 23 ott; CNBC, 23 ott; Reuters, 23 ott].
 
 ## 5. Valute, energia e materie prime
 
-- **Oro sotto i 4.000 dollari**: lo spot ha toccato 3.975 dollari e quotava circa 3.997 nel pomeriggio di New York. Il paradosso è che il metallo scende con il petrolio in rialzo: il prezzo dell'energia fa salire le attese di tassi più alti, e questo pesa sull'oro più della domanda da rifugio [Reuters, 23 ott; FXStreet, 23 ott].
-- **Valute**: EUR/USD a circa 1,1204 (-0,16%), USD/JPY a circa 156,8 con lo yen che ha toccato per un momento 156 per dollaro, massimo di cinque settimane, prima di cedere; l'indice dollaro è attorno a 101,6-101,7. EUR/JPY ha segnato un minimo a 12 mesi (175,20) [Yahoo Finance, 23 ott; FXStreet, 23 ott; Investing.com, 23 ott].
-- **Petrolio**: oltre al Golfo, pesano una chiusura della valvola dell'oleodotto Hamada-Tahara verso Zawiya in Libia e uno sversamento al largo degli Emirati. Dato non verificato in modo indipendente [Business Recorder, 23 ott].
+- **Dollaro e yen**: EUR/USD a 1,1198 (-0,15%, -0,4% sulla settimana), USD/JPY a 156,73 e EUR/JPY al minimo da ottobre 2025 a 175,42; l'indice dollaro è vicino a 101,6-101,8. L'euro soffre per la Francia, lo yen beneficia della ricerca di rifugio [CNBC, 23 ott; Trading Economics, 23 ott].
+- **Metalli**: l'oro cede lo 0,3% a circa 4.012 dollari (le fonti vanno da 3.994 a 4.032) con rendimenti più alti, l'argento perde l'1,3% a circa 53,9 dollari e il rame sale dell'1,8% a circa 6,48 dollari per libbra. Il paradosso è che l'oro non regge con petrolio in rialzo, perché l'energia rafforza le attese di tassi alti [Rio Times, 23 ott; USAGold, 23 ott; Trading Economics, 23 ott].
+
+## 6. Supply chain, trade e industria
+
+- **Hormuz: record di attacchi alle navi**: ottobre è il peggiore mese per gli attacchi al traffico commerciale nell'area, con oltre 30 VLCC danneggiate dall'inizio del conflitto, 11 solo in ottobre, secondo l'IMO. Le fonti divergono sullo stato dello stretto: "conteso e limitato", non chiuso, per Lloyd's List. Le tariffe dei VLCC, salite fino a circa 1,3 milioni di dollari al giorno a inizio mese, sono scese di circa il 13% dal picco (dato Lloyd's List del 19 ottobre). Il rischio per le imprese è sui premi di guerra e sui tempi di consegna dell'energia [U.S. News/Reuters, 23 ott; Lloyd's List, 19 ott].
 
 ## 7. Corporate e tecnologia
 
-- **AI e lavoro**: American Express ha ceduto oltre il 3% dopo aver annunciato il taglio di circa il 5% della forza lavoro globale, motivato dalla necessità di "prepararsi all'AI". Il segnale è che l'adozione dell'AI entra nei piani di costo di un grande emittente finanziario [Yahoo Finance, 23 ott].
-- **Auto e lusso in Europa**: Stellantis ha perso il 6,3% a Milano senza una causa verificata nelle fonti consultate; i conti trimestrali sono attesi il 28 ottobre. Il settore resta tra i più sensibili a energia e domanda [SoldiOnline, 23 ott].
+- **AI e capex**: il sell-off dei costruttori di data center vale oltre 300 miliardi di dollari di capitalizzazione persa dal 6 ottobre su una dozzina di nomi (stima Yahoo Finance), e la prossima settimana riportano Microsoft, Alphabet e Amazon, con circa un terzo dell'S&P 500. Per le grandi imprese conta il costo dei servizi cloud e AI: la fase di ridimensionamento delle valutazioni potrebbe rendere più negoziabili i contratti [Yahoo Finance, ott; Reuters via Kitco, 23 ott].
+
+## 8. Mondo — fatti rilevanti oltre il business
+
+- **Kherson: tregua locale per gli aiuti**: l'accordo per un cessate il fuoco che permetta ai convogli di raggiungere una cittadina isolata, in vigore dal 27 ottobre, è un test per la capacità delle parti di tenere una pausa umanitaria. Resta da vedere se verrà rispettata [AP, 24 ott].
 
 ## 9. Implicazioni per il business
 
-- **Costo del capitale**: con Brent a 117 dollari, rendimenti USA vicini al 5% e OAT sopra il 5%, gli emittenti corporate dovrebbero aspettarsi finanziamenti più cari fino alla fine dell'anno; rinviare a dopo FOMC e BCE le emissioni non urgenti è una scelta difendibile.
-- **Costi di input e margini**: l'energia a questi livelli rende urgenti coperture sui costi di trasporto e produzione per il primo semestre 2027, perché il rischio sul Golfo è asimmetrico al rialzo.
-- **Rischio sovrano europeo**: l'esposizione a Francia e periferia dovrebbe essere trattata come variabile di scenario, dato che l'outlook negativo di Moody's lega il rating alla tenuta politica e non solo ai numeri.
+- **Costo del capitale**: con Treasury al 5%, OAT oltre il 5% e BCE e Fed in settimana, le emissioni non urgenti si possono rinviare a dopo l'esito di FOMC e BCE; il rischio francese rende più cari soprattutto i finanziamenti in euro di emittenti con esposizione a Parigi.
+- **Costi di input**: Brent a 117 dollari e premi di guerra alti rendono sensata una copertura dei costi di energia e logistica per il primo semestre 2027, perché lo scenario resta asimmetrico al rialzo finché Hormuz non è normalizzato.
+- **Esposizione valutaria**: euro debole contro yen e dollaro favorisce gli esportatori europei ma aumenta il costo delle importazioni energetiche in dollari.
 
 ## 10. Italia in breve
 
-- **Spread e titoli di Stato**: lo spread BTP-Bund chiude a 122 punti base (124 il giorno prima), con il BTP decennale al 4,56% e il Bund al 3,34%; in giornata ha toccato circa 128 [ANSA, 23 ott].
-- **Borsa**: FTSE MIB a 48.558,86 (+0,36%), sostenuto da Eni (+5,8%) mentre il resto d'Europa cedeva; sulla settimana l'indice perde il 2,6% [SoldiOnline, 23 ott; Teleborsa, 23 ott].
-- **BTP Valore**: chiuso il collocamento "doppio" con tassi finali rivisti al rialzo dal Tesoro (3,75%, 4,20%, 4,75% per il BTP Valore; cedola unica del 22,70% per l'Insieme), scadenza 27 ottobre 2031 [MEF, 23 ott].
+- **Borsa e spread**: il FTSE MIB ha chiuso a circa 48.559 (+0,36%, la fonte principale), sostenuto da Eni (+5,8%) mentre Stellantis ha perso il 6,3%; lo spread BTP-Bund è a 122 punti base (124 il giorno prima), con il decennale italiano al 4,56% [ANSA, 23 ott; SoldiOnline, 23 ott].
+- **Manovra 2027**: Giorgetti ha avvertito il 22 ottobre che le attese sulla legge di bilancio sono troppo alte; il governo conta su circa 5 miliardi dal settore finanziario nel 2027, con meccanismo ancora da definire, su una manovra da circa 23,5 miliardi [Milano Finanza, 22 ott; Quotidiano.net, 16 ott].
 
 ## 11. Agenda — prossime 72 ore
 
-- **Lunedì 26 ottobre**: nessun evento di mercato di primo piano verificato; l'attenzione resta sul Golfo e sulla riapertura dei mercati asiatici.
-- **Martedì 27 – mercoledì 28 ottobre**: FOMC (decisione mercoledì); in contemporanea Bank of Canada e RBNZ. Stellantis pubblica i conti trimestrali mercoledì [Newsquawk, 23 ott; FXStreet, 23 ott].
-- **Oltre le 72 ore**: BCE giovedì 29 (conferenza di Lagarde), PIL USA anticipato del terzo trimestre e core PCE giovedì 29, BoJ venerdì 30, PIL del terzo trimestre di Eurozona e Germania venerdì 30; elezioni USA di metà mandato il 3 novembre.
+- **Lunedì 26 ottobre**: inizio della settimana di earnings, con circa un terzo dell'S&P 500 in calendario nel corso della settimana.
+- **Martedì 27 ottobre**: inizia il FOMC; entra in vigore il cessate il fuoco locale a Kherson.
+- **Mercoledì 28 ottobre**: decisione Fed alle 14:00 ET e conferenza di Warsh alle 14:30; dopo la chiusura riportano Microsoft e Alphabet; Stellantis pubblica il terzo trimestre.
+- **Prossimi giorni (oltre le 72 ore)**: BCE giovedì 29 (14:15 CET), PCE e PIL USA del 29, BoJ il 30; midterm USA il 3 novembre.
 
 ## 12. Market Mover del giorno
 
-**Lo scenario Golfo-petrolio.** Un Brent stabilmente sopra i 117 dollari, o un nuovo danno confermato a impianti Aramco, confermerebbe lo scenario di shock energetico e di tassi più alti. Una smentita arriverebbe da un ritorno sotto i 110 dollari con traffico regolare a Hormuz (lettura nostra).
+- **Il rischio di un nuovo attacco USA all'Iran nel fine settimana.** Una ripresa dei raid spingerebbe Brent oltre i 117 dollari e i rendimenti ancora più su; lo smentirebbe un'intesa pubblica su Hormuz o la conferma USA della proposta iraniana. Lunedì mattina l'apertura di Asia e dei future è la prima lettura.
 
 ## 13. Risk Sentiment
 
-🟠 **Cautious / risk-off moderato.** Equity in calo (S&P -0,52%, STOXX -0,31%), petrolio ai massimi da aprile e dollaro attorno a 101,6, a fronte di Treasury attorno al 4,97% e oro sotto i 4.000: segnali contraddittori, perché l'oro non sta funzionando da rifugio e i rendimenti non salgono nonostante l'energia. VIX non disponibile al momento della redazione, quindi la lettura non è ancorata alla volatilità implicita.
+- **🟠 Cautious Risk-off, con segnali contraddittori**: Brent a 116,72 dollari, Treasury al 5,00%, spread OAT-Bund a circa 172 pb e S&P 500 in calo per la seconda settimana sono segnali di tensione; l'oro sotto i 4.100 dollari e l'indice dollaro contenuto non confermano un rifugio pieno. Il VIX non è disponibile al momento della redazione.
+
+## 14. Sotto il radar
+
+- **Iran e i cavi sottomarini**: due alti funzionari della sicurezza iraniani hanno detto a Reuters che Teheran ha preparato piani per colpire i cavi di comunicazione sottomarini se USA o Israele attaccano di nuovo, senza indicare quali. Se si concretizzasse, l'impatto sarebbe sul traffico dati e sui pagamenti tra Asia, Golfo ed Europa; per ora è una minaccia non verificata in modo indipendente [Reuters, 23 ott].
