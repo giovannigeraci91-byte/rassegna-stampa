@@ -1,67 +1,64 @@
-# Rassegna Stampa — martedì 27 ottobre 2026
+# Rassegna Stampa — mercoledì 28 ottobre 2026
 
-*Redazione ore 07:15 CET (06:15 UTC). Finestra di freschezza: 36 ore. Livelli USA ed europei: chiusure di lunedì 26. Asia: dati intraday del 27, non chiusure. Non disponibili al momento della redazione: VIX, gas europeo, chiusure finali delle borse asiatiche, indice del dollaro.*
+*Redazione ore 07:10 CET (06:10 UTC). Finestra di freschezza: 36 ore. Livelli USA ed europei: chiusure di martedì 27. Asia: dati intraday del 28, non chiusure. Non disponibili al momento della redazione: VIX, gas europeo, indice del dollaro confermato da più fonti, consenso sui dati macro USA di ieri. Le cifre di fonti diverse divergono in alcuni casi: sono indicate come approssimative.*
 
 ## 1. Le tre cose che contano oggi
 
-- **Mediazione regionale a Teheran mentre Washington lascia aperta l'opzione militare**: una delegazione dei paesi del patto della Mecca (Arabia Saudita, Turchia, Pakistan) ha incontrato leader iraniani il 26 ottobre, con il Qatar attivo come mediatore, mentre gli Houthi colpiscono l'Arabia Saudita e l'aeroporto di Riyadh è stato chiuso. Il Brent ha chiuso a 115,81 dollari, circa -0,8% sul venerdì ma vicino ai massimi di sei mesi. Conta perché l'energia a questi livelli è il principale vincolo sull'inflazione e sulle banche centrali nella settimana di Fed e BCE; la scadenza informale per la diplomazia sono le elezioni USA del 3 novembre [Reuters via Investing.com, 26 ott; France 24, 26 ott; CNBC, 26 ott].
-- **Il deposito pubblico dell'S-1 di Anthropic ha riacceso il trade sull'AI**: Nasdaq +0,82% e indice dei semiconduttori +2,8% lunedì, con KOSPI e Nikkei in forte rialzo stamattina. Il gruppo punta a quotarsi al Nasdaq con ticker ANT; secondo le indiscrezioni il roadshow partirebbe il 9 novembre. Conta perché una delle quotazioni più grandi di sempre testerà l'appetito per l'AI proprio mentre il Treasury a 10 anni resta intorno al 5% [CNBC, 26 ott; Investing.com, 27 ott] **[date del roadshow non confermate]**.
-- **Brasile: Lula rieletto a sorpresa, crollo di azioni e real**: ha vinto il ballottaggio del 25 ottobre con il 51,79% contro il 48,21% di Flávio Bolsonaro, che non ha concesso la sconfitta e chiede l'annullamento del voto. Il Bovespa è sceso di una misura che le fonti collocano tra il 10% e il 17% (circuit breaker attivato) e il real di circa l'11% sul dollaro. Conta perché è il più grande shock su un mercato emergente sistemico dell'anno e la fiscalità brasiliana (debito lordo 82,9% del PIL) diventa il tema [Al Jazeera, 26 ott; Quartz/Reuters, 26 ott].
+- **Iran: la mediazione regionale tiene il Brent sotto i 114 dollari, ma l'opzione militare resta sul tavolo**: dopo l'incontro di lunedì a Teheran con delegati di Arabia Saudita, Turchia e Pakistan, il Brent ha chiuso a 113,88 dollari (-1,93, circa -1,7%) e il WTI a 99,90, comunque vicini ai massimi di sei mesi; la Guida suprema iraniana ha detto che lo stato di "né guerra né pace" deve finire, mentre il WSJ riferisce che Washington ha avvertito gli alleati del Golfo di una possibile campagna breve e intensa dopo le elezioni di midterm del 3 novembre. Conta perché l'energia a questi livelli è il vincolo principale sull'inflazione proprio nei giorni di Fed, BCE e BoJ [Reuters via AsiaOne, 27 ott; Bloomberg via Rigzone, 27 ott; WSJ via InvestingLive, 26 ott].
+- **Fed oggi: la pausa è scontata, il rischio è il tono**: i mercati prezzano una conferma dei tassi e circa l'80% o più di probabilità di un rialzo a dicembre, con il Treasury decennale a ridosso del 5% (circa 4,99%); JPMorgan si aspetta almeno due dissenzienti hawkish. Conta perché una comunicazione più dura di Warsh spingerebbe i rendimenti sopra il 5%, soglia che ha limitato l'oro e che pesa su tutto il complesso growth [Kitco, 27 ott; Investing.com, 28 ott; Pomegra, 27 ott].
+- **Le Borse asiatiche salgono sui conti di SK Hynix**: il profitto operativo del terzo trimestre è balzato del 631% secondo i dati riportati, e il KOSPI guadagna tra il 3% e oltre il 6% nelle prime ore, il Nikkei tra l'1,2% e l'1,5%. Conta perché dopo il crollo di luglio il trade sull'AI/memorie torna a essere il principale motore di rischio globale, ma con valutazioni già tese [Investing.com, 28 ott; Business Recorder, 28 ott].
 
 ## 2. Geopolitica e policy
 
-- **Iran-Golfo**: oltre ai colloqui di Teheran, un funzionario regionale cita una proposta pensata per dare qualcosa a entrambe le parti, con i paesi del patto e il Qatar possibili garanti; i dettagli non sono noti. Trump ha detto venerdì che gli USA potrebbero compiere una nuova operazione, e funzionari iraniani avrebbero piani per colpire i cavi sottomarini del Golfo in caso di attacco. Il rischio è un'interruzione delle connessioni dati e finanziarie della regione, oltre al petrolio [Reuters via Investing.com, 26 ott; ABC News/AP, 26 ott].
-- **Brasile, dopo il voto**: la contestazione legale di Bolsonaro prolunga l'incertezza istituzionale; la lettura di mercato è che il premio al rischio fiscale resti elevato finché Lula non chiarisce la rotta di bilancio [Quartz/Reuters, 26 ott; Al Jazeera, 26 ott].
+- **Iran e nucleare**: il direttore generale dell'AIEA Grossi ha detto al Consiglio di sicurezza ONU che l'agenzia non può verificare se Teheran abbia sottratto materiale nucleare, incluso uranio altamente arricchito. Teheran, secondo i media di Stato, ha concordato con Riyad, Ankara e Islamabad di proseguire i colloqui; Washington vuole limiti all'arricchimento, Teheran chiede la fine del blocco dei porti per riaprire Hormuz. L'assenza di verifica rende un'intesa più difficile da sostenere politicamente [Fox News, 27 ott; CBS News, 26-27 ott; Reuters via AsiaOne, 27 ott].
+- **Houthi-Arabia Saudita**: gli attacchi houthi sul territorio saudita minacciano le esportazioni di greggio di Riyad, finora resilienti in otto mesi di conflitto. È il canale che può riaccendere i prezzi anche con la diplomazia in corso [Bloomberg via Rigzone, 27 ott].
 
 ## 3. Macro e banche centrali
 
-- **Fed**: Warsh non ha anticipato l'esito della riunione del 27-28 ottobre, indicando ottobre e dicembre come punti di verifica. Il mercato scommette su una pausa, con un rialzo a dicembre molto probabile; le proiezioni di settembre vedevano 16 membri su 18 aperti ad almeno un altro rialzo nell'anno. Range attuale 3,75-4,00% [InvestingLive, 20 ott; Trading Economics, ottobre]. **[probabilità aggiornate non disponibili]**
-- **Giappone e Corea**: i prezzi alla produzione dei servizi giapponesi a settembre sono +3,7% annuo, il massimo da giugno 2024; il PIL sudcoreano del terzo trimestre è +1,0%, sopra le attese. Il primo dato pesa sulla BoJ del 30 ottobre, il secondo sostiene il rimbalzo dei chip coreani [Saxo, 27 ott; InvestingLive, 27 ott].
+- **Fed (decisione oggi, 28 ott)**: tassi attesi invariati; Warsh ha abbandonato la forward guidance tradizionale, quindi la conferenza stampa è il vero evento. La lettura di mercato è che un messaggio aperto a un rialzo di dicembre sia già in gran parte prezzato; la sorpresa sarebbe un tono più accomodante [Investing.com, 28 ott; Kitco, 27 ott]. **[esito non disponibile alla redazione]**
+- **BCE (domani, 29 ott)**: consenso per un hold con tasso sui depositi al 2,50% (un sondaggio Reuters su 73 economisti vedeva solo 3 a favore di un rialzo); l'attenzione è sul segnale per dicembre, dove Nomura prevede un rialzo [FXStreet, 20 ott; InvestingLive, ottobre].
+- **Giappone**: lo yen resta debole, con USD/JPY intorno a 157-158, e il BoJ si riunisce il 30 ottobre con aspettative di rialzo contenute dopo che il Summary of Opinions ha deluso i falchi [Saxo, 27 ott; FXStreet, ottobre]. La lettura è che il governo Takaichi preferisca evitare strette rapide, aumentando il rischio di nuovo intervento sul cambio.
 
 ## 4. Mercati
 
-- **USA (chiusura 26 ott)**: S&P 500 a 7.676,77 (+0,70%), Nasdaq a 26.169,38 (+0,82%), Dow Jones a 52.361,58 (+0,28%), dopo due sedute di ribasso. Traina la tecnologia: oltre all'S-1 di Anthropic, il petrolio in calo ha allentato i timori sull'inflazione. Il decennale USA resta tra 4,98% e 5,00%, sostanzialmente invariato [CNBC, 26 ott; Xinhua, 27 ott].
-- **Asia (intraday 27 ott)**: KOSPI +4,2-4,5% intorno a 5.717 con SK Hynix +6-7% e Samsung +4,8%; Nikkei +2% circa a 63.543; Hang Seng -0,2% a 23.174. Il KOSPI veniva da un calo di circa il 40% dal picco di giugno secondo una sola fonte, quindi parte del rialzo è rimbalzo tecnico; attesi i conti di SK Hynix il 28 ottobre [AP, 27 ott; Investing.com, 27 ott; TradingKey, 27 ott].
-- **Francia e Italia**: l'OAT decennale è tornato appena sotto il 5% (4,97%) dopo il picco oltre il 5% del 21-22 ottobre; il Bund è al 3,36%, quindi il differenziale è di circa 160 pb (calcolo sui livelli riportati). Il BTP decennale rende il 4,48%, cioè meno dell'OAT [Investing.com, 26 ott; SoldiOnline, 26 ott].
+- **USA (chiusura 27 ott)**: S&P 500 a circa 7.722,6 (+0,6%), Nasdaq a circa 26.477,8 (+1,2%), Dow Jones a circa 52.377,6 (+0,03%). Traina la tecnologia, con il calo del petrolio come sostegno; i dati dalle fonti variano leggermente [AP, 27 ott; CNBC, 27 ott].
+- **Rendimenti**: decennale USA intorno al 4,99%, 2 anni vicino al 4,70%, 30 anni circa 5,31%, sostanzialmente invariati; l'indice del dollaro ha toccato un massimo di quasi due settimane intorno a 102,2 (fonte singola) [CNBC, 26 ott; Kitco, 27 ott].
+- **Europa (27 ott)**: Stoxx 600 intorno a +0,5%, DAX circa +0,7%, CAC 40 tra +0,5% e +0,7%, FTSE 100 circa -0,75%, zavorrato da HSBC dopo conti trimestrali sotto le attese; le cifre divergono tra fonti [Bloomberg, 27 ott; RTTNews, 27 ott].
 
 ## 5. Valute, energia e materie prime
 
-- **Energia**: WTI a 101,76 dollari (-1,46%), Brent a 115,81 dollari, in calo per le notizie sulla mediazione; il rischio resta bidirezionale. Un'intesa riporterebbe il Brent sotto i 110, un attacco USA lo spingerebbe verso nuovi massimi [CNBC, 26 ott; Xinhua, 27 ott].
-- **Cambi e metalli**: lo yen è stata la valuta G10 più debole lunedì (USD/JPY circa 156,7-157,0); EUR/USD intorno a 1,122 (fonte singola, indicativo); il real brasiliano ha perso circa l'11%. L'oro è fermo attorno a 4.000 dollari l'oncia (3.992-4.005 a seconda delle fonti), il rame a 6,46 dollari/libbra (-0,3%) [Saxo, 27 ott; Trading Economics, 26 ott; Kitco, 26 ott].
+- **Energia**: Brent 113,88 dollari (-1,7%), WTI 99,90 (-1,86 dollari); il Brent è in rialzo di circa il 90% da inizio anno. Un accordo riporterebbe i prezzi sotto 110, un attacco USA post-midterm li spingerebbe verso nuovi massimi [Bloomberg via Rigzone, 27 ott; Reuters via AsiaOne, 27 ott].
+- **Oro**: tra circa 4.012 e 4.058 dollari l'oncia (secondo la fonte e l'ora), in rimbalzo di circa l'1% grazie al petrolio più basso e alle attese sui tassi reali; il livello di 4.000 resta il supporto chiave [Kitco, 27 ott; Vantage Markets, 28 ott].
+- **Real brasiliano**: il dollaro ha chiuso a 5,349 reais (-1,07%) dopo un balzo di oltre l'8% lunedì, correzione parziale dello shock elettorale (vedi Mondo emergenti sotto) [Aonca, 27 ott; Money Times, 27 ott].
 
 ## 7. Corporate e tecnologia
 
-- **Anthropic verso il Nasdaq**: l'S-1 indica ricavi per 16,3 miliardi di dollari nel primo semestre 2026 e una perdita netta di 80,7 miliardi; la valutazione attesa dal mercato è di 1.500-2.000 miliardi, un dato riportato dalla stampa e non fissato nel prospetto. Goldman Sachs e Morgan Stanley guidano un sindacato di 22 banche. Conta perché le dimensioni dell'offerta possono drenare liquidità dal resto del comparto AI nelle settimane del collocamento (lettura nostra); i tempi riportati sono la settimana del 16 novembre **[non confermato]** [CNBC, 26 ott; IBTimes, 26 ott; HNGN, 26 ott].
-- **Big tech in settimana**: Microsoft, Alphabet e Amazon riportano i conti; dopo il -3% di Meta della scorsa settimana su capex in aumento, il mercato cerca prova del ritorno sugli investimenti AI [CNBC, 26 ott].
+- **SK Hynix**: profitto operativo del terzo trimestre +631% annuo secondo i dati riportati, a conferma della domanda di memorie per l'AI; il titolo guida il rialzo del KOSPI. La conseguenza è un sostegno ai prezzi delle memorie e ai capex dei data center, a meno di delusioni sulle guidance [Investing.com, 28 ott].
+- **HSBC**: i conti del terzo trimestre sotto le attese hanno pesato sul FTSE 100 e sul settore bancario europeo, un segnale di margini sotto pressione mentre i tassi restano alti [Bloomberg, 27 ott; MarketScreener, 27 ott — **[fonte secondaria]**, confermato da Bloomberg].
 
 ## 9. Implicazioni per il business
 
-- **Esposizione ai mercati emergenti**: dopo il -11% del real, chi ha ricavi o costi in reais deve rivedere coperture e margini di bilancio, e valutare rischio di controparte e di convertibilità in Brasile finché la contestazione elettorale non si chiude.
-- **Costo del capitale**: con Treasury al 5%, OAT al 4,97% e Fed/BCE in settimana, conviene fissare tassi o emissioni prima delle decisioni di mercoledì e giovedì; un tono Fed più restrittivo con Brent a 115 dollari colpirebbe duration e spread.
-- **Energia e dati**: indicizzazioni e coperture carburante restano la prima leva sui margini; per chi opera nel Golfo, l'ipotesi di attacchi ai cavi sottomarini giustifica piani di continuità sui collegamenti.
+- **Costo del capitale**: con il decennale USA al 5% e un rialzo Fed a dicembre ancora prezzato, il rifinanziamento resta caro; chi ha scadenze nel quarto trimestre dovrebbe valutare coperture o emissioni anticipate prima della comunicazione di Warsh e della BCE.
+- **Energia e input**: il Brent a 114 dollari è una variabile binaria legata al 3 novembre e ai giorni successivi; contratti di fornitura e hedging andrebbero impostati su entrambi gli scenari (accordo, sotto 110; attacco, nuovi massimi).
+- **Esposizione emergente**: la volatilità sul real (-8% in un giorno, poi parziale rimbalzo) segnala il rischio di conversione sui ricavi in Brasile; conta la scelta del nuovo ministro dell'Economia, ancora attesa.
 
 ## 10. Italia in breve
 
-- **Borsa e spread**: il FTSE MIB ha chiuso a 49.186,81 punti (+1,29%), meglio degli altri listini europei, trainato da tecnologici e banche (Avio +5,8%, Technoprobe +5,5%); lo spread BTP-Bund è sceso a 112 pb dai 122 della vigilia, con il BTP decennale al 4,48% [ANSA, 26 ott; SoldiOnline, 26 ott].
-- **Manovra**: Giorgetti descrive una legge da 23,5 miliardi, di cui circa 9 effettivamente disponibili al netto della flessibilità per energia e difesa; il governo cerca margini europei e un contributo da circa 5 miliardi dal settore finanziario, con il passaggio in Consiglio dei ministri atteso nella settimana [La Mia Finanza, 26 ott].
+- **Manovra**: Giorgetti ha detto che la legge di bilancio andrà in Consiglio dei ministri oggi, con progressi nel confronto con la Commissione UE; il contributo delle banche è definito "sostenibile" dal ministro e gestibile dagli analisti di Intermonte [ANSA, 27 ott; Il Messaggero, ottobre].
+- **BTP**: spread BTP-Bund intorno a 115 punti base e decennale al 4,51% il 27 ottobre; il Tesoro ha collocato 2 miliardi di BTP a breve scadenza 2028 con rendimento del 3,55% [Milano Finanza, 27 ott; ANSA, 27 ott].
 
 ## 11. Agenda — prossime 72 ore
 
-- **Martedì 27 ott**: ripresa del dibattito sul budget 2027 all'Assemblea nazionale francese (ING vede nell'articolo 49.3 lo scenario base); elezioni in Israele secondo Reuters/ABC; dati asiatici e conti.
-- **Mercoledì 28 ott**: decisione Fed ore 14:00 ET, conferenza di Warsh alle 14:30; conti di SK Hynix.
-- **Giovedì 29 ott**: BCE alle 13:15 UTC (deposito al 2,50% dopo il rialzo di settembre, pausa più probabile); PIL USA del terzo trimestre e PCE di settembre alle 8:30 ET (previsioni di calendario: PIL circa +3,6%, core PCE circa +3,1% annuo, non un consenso di analisti).
-- **Venerdì 30 ott**: BoJ, con attenzione alla guida sui tassi; il mercato dava circa il 26% di probabilità di un rialzo (dato del 7 ottobre).
-- **Oltre le 72 ore**: elezioni di metà mandato USA il 3 novembre; scadenza di 178 esclusioni dai dazi Section 301 sulla Cina il 9 novembre **[fonte secondaria]**.
-[Reuters, 26 ott; Investing.com, 21-26 ott; Thrive in Markets, ott]
+- **Mer 28 ott**: decisione Fed e conferenza stampa di Warsh (ore USA pomeridiane); conti SK Hynix già pubblicati; Consiglio dei ministri su manovra.
+- **Gio 29 ott**: BCE, decisione ore 14:15 CET e conferenza stampa ore 14:45 CET.
+- **Ven 30 ott**: riunione BoJ.
+- **Oltre la finestra**: elezioni USA di midterm, 3 novembre.
+- Altri dati macro USA e calendario earnings di questa settimana: **[non verificati alla redazione]**.
 
 ## 12. Market Mover del giorno
 
-**L'esito della mediazione a Teheran e il Brent.** Il petrolio guida oggi inflazione attesa, rendimenti e cambi, e dà il tono alla Fed di domani. Un Brent stabilmente sotto i 110 dollari e un annuncio di garanti per un accordo lo confermerebbero; nuovi attacchi Houthi su Riyadh, un ordine di raid USA o minacce ai cavi del Golfo lo smentirebbero [Reuters via Investing.com, 26 ott; CNBC, 26 ott].
+**La decisione Fed e il tono di Warsh.** Lo confermerebbe un messaggio esplicito su un rialzo a dicembre con due o più dissenzienti hawkish (decennale sopra il 5%, dollaro in rialzo); lo smentirebbe un tono più neutro, con rendimenti in calo e oro sopra 4.050.
 
 ## 13. Risk Sentiment
 
-🟡 **Risk-on fragile.** Azionario in rimbalzo (S&P +0,70%, semiconduttori +2,8%) e spread BTP-Bund in calo a 112 pb, ma il Treasury a 10 anni vicino al 5%, il Brent a 115 dollari, l'oro tenuto a 4.000 e il crollo del Brasile dicono che la cautela resta: i segnali sono contraddittori e la salita delle borse poggia quasi tutta su un solo tema, l'AI. VIX non disponibile al momento della redazione.
-
-## 14. Sotto il radar
-
-- **Inflazione dei servizi in Giappone**: i prezzi alla produzione dei servizi a +3,7% annuo (massimo dal giugno 2024), con l'inflazione core di Tokyo a settembre al 2,7%, indicano che il costo del lavoro e dei servizi si sta trasferendo ai prezzi nonostante i sussidi sull'energia. Se la BoJ tarda ancora, lo yen sopra 157 sul dollaro resta un fattore di rischio per le imprese esportatrici e per i carry trade [Saxo, 27 ott; Vantage Markets, 7 ott].
+⚖️ **Cautious Optimism, con segnali contraddittori.** A favore del rischio: Nasdaq +1,2%, Stoxx 600 circa +0,5%, KOSPI e Nikkei in forte rialzo e Brent in calo. Contro: decennale USA al 4,99%, dollaro vicino ai massimi di due settimane, oro bloccato intorno a 4.000 e Brent ancora a 114 dollari. VIX non disponibile al momento della redazione.
