@@ -1,64 +1,67 @@
-# Rassegna Stampa — giovedì 5 novembre 2026
+# Rassegna Stampa — venerdì 6 novembre 2026
 
-*Redazione ore 07:30 CET (06:30 UTC). Finestra di freschezza: 36 ore. Edizione con copertura parziale: diversi siti di wire e testate non erano raggiungibili direttamente, quindi parte dei dati proviene da sintesi di ricerca e aggregatori; dove un livello non è verificato o le fonti divergono, è indicato.*
+*Redazione ore 07:15 CET (06:15 UTC). Finestra di freschezza: 36 ore. Edizione con copertura parziale: i siti di wire e testate non sono raggiungibili direttamente, quindi i dati provengono da sintesi di ricerca e aggregatori; dove un livello non è verificato o le fonti divergono, è indicato. I movimenti asiatici di venerdì sono intraday e provvisori.*
 
 ## 1. Le tre cose che contano oggi
 
-- **I Democratici conquistano il Congresso e i mercati rispondono con un rally risk-on:** il Dow ha chiuso a 53.356 (+3,03%, il maggior guadagno dell'anno), l'S&P 500 a 7.689 (+1,6%), mentre dollaro e rendimenti scendevano e l'oro tornava sopra 4.000 dollari; la lettura è che un governo diviso limiti espansione fiscale ed emissione di debito, oltre che l'azione militare [CBS News, 4 nov; Bloomberg, 4 nov; Kitco, 4 nov].
-- **Il Brent perde l'8,7% e chiude a 94,62 dollari, minimo dal 31 agosto,** su attese di de-escalation con l'Iran dopo il voto; i colloqui però risultano in stallo e la strozzatura fisica di Hormuz resta, quindi il ribasso è di premio al rischio, non di offerta [CNBC, 4 nov; Gulf News, 4 nov].
-- **L'inflazione dell'eurozona sale al 4,0% a ottobre (da 3,8%), massimo in tre anni, in linea con il consenso,** spinta dall'energia (+20,8% annuo); oggi la Bank of England è attesa al primo rialzo in oltre tre anni, a 4,00% da 3,75% [Eurostat, 4 nov; CNBC, 4 nov; FXStreet, 5 nov].
+- **Giovedì è stata la peggiore seduta di Wall Street da aprile 2025:** Nasdaq -5,5% (in correzione, oltre il 10% sotto il massimo del 6 ottobre), S&P 500 -4,4%, Dow -3,4%, con l'indice dei semiconduttori a -12,3% e Nvidia e Qualcomm sotto di oltre il 9%; il detonatore è il timore che la vittoria democratica nelle due camere freni la corsa dei data center AI, dopo una guida debole di Qualcomm. Il contagio è già arrivato in Asia, con il Kospi sospeso da un circuit breaker [CNBC, 5 nov; CNN, 5 nov; CNBC, 6 nov].
+- **Il Brent ha chiuso a 98,29 dollari (+3,9%) dopo nuovi incendi su petroliere nello Stretto di Hormuz, e venerdì è tornato intorno a 100:** la Guardia rivoluzionaria iraniana parla di due petroliere e un rimorchiatore in fiamme su rotte "non autorizzate"; i negoziati con Washington restano senza una data, quindi il ribasso di mercoledì era solo premio al rischio [Reuters, 5 nov; HDFC Sky, 6 nov; Gulf News, 5 nov].
+- **La Bank of England ha alzato il Bank Rate al 4,00% da 3,75%, primo rialzo dal 2023, con voto 8-1** (un membro voleva +50 pb): la banca stima l'inflazione verso il 5% a metà 2027 per effetto dell'energia, quindi il ciclo restrittivo globale non si ferma nonostante la crisi azionaria [Bank of England, 5 nov; Bloomberg, 5 nov].
 
 ## 2. Geopolitica e policy
 
-- **Midterm USA e Iran.** Con la vittoria democratica su entrambe le camere, il Congresso acquisisce leva sul finanziamento della guerra e sull'oversight; il vicepresidente Vance ha attribuito la sconfitta repubblicana al conflitto, mentre Trump ha detto che riconoscerà il risultato e collaborerà con i Democratici. Sul terreno la tensione non cala: Teheran dichiara che gli americani hanno «votato no alla guerra», Trump evoca un «colpo pesante» e si segnalano petroliere in fiamme vicino a Hormuz. Conseguenza: la direzione politica favorisce il negoziato, ma il rischio di incidenti nel Golfo resta e mantiene alta la volatilità dell'energia [CNBC, 4 nov; Gulf News, 4 nov; Schwab, 4 nov].
+- **Iran e Hormuz.** Teheran lega la riapertura dello stretto alla fine del blocco navale USA e all'alleggerimento delle sanzioni; il Qatar fa da mediatore, ma non c'è un nuovo round confermato e un portavoce dei Pasdaran ha negato canali diretti con Washington. Il memorandum di giugno, con la scadenza dei 60 giorni passata da agosto, è di fatto svuotato. La lettura di Eurasia Group è che un'escalation spingerebbe il Brent a 110-125 dollari: per le aziende con logistica nel Golfo il rischio è di interruzione fisica, non solo di prezzo [Reuters, 5 nov; Gulf News, 5 nov; CBS News, ago].
+- **Ucraina.** Washington ha convocato a Abu Dhabi il 10-11 novembre delegazioni di Kiev e Mosca, secondo l'inviato Witkoff; nel frattempo Kiev ha colpito una raffineria nella regione di Samara, interrompendo due settimane di pausa. Conseguenza: sul tavolo c'è un possibile canale negoziale, ma gli attacchi alle raffinerie continuano a pesare sull'offerta di prodotti russi [Al Jazeera, 5 nov; FDD, 3 nov].
+- **Stati Uniti, dopo il voto.** Con entrambe le camere ai Democratici, il mercato prezza una stretta regolatoria su data center e infrastruttura di calcolo; non è stata ancora indicata alcuna proposta concreta (interpretazione degli analisti) [CNBC, 5 nov].
 
 ## 3. Macro e banche centrali
 
-- **Eurozona e BCE.** L'HICP flash di ottobre al 4,0% (consenso 4,0%) con core stabile al 2,5% indica che il problema è per ora energetico, con effetti di secondo round limitati. La BCE ha il tasso sui depositi al 2,5% dopo i rialzi di giugno e settembre; il mercato prezza circa il 72% di probabilità di un rialzo a dicembre [Eurostat, 4 nov; CNBC, 4 nov].
-- **Regno Unito.** Decisione BoE alle 12:00 GMT: atteso +25 pb a 4,00%, con inflazione di settembre al 3,5%; a settembre il comitato aveva tenuto i tassi con voto 6-3. La sterlina era sopra 1,3450 in vista dell'annuncio. La guidance di Bailey conta quanto la mossa [FXStreet, 5 nov; AP via WSB-TV, 5 nov].
-- **Stati Uniti e Fed.** Dopo il rialzo di settembre, la Fed ha tenuto il 3,75-4,00% il 28 ottobre con due dissenzienti a favore di un ulteriore rialzo (voto 10-2); il mercato prezza oltre l'80% di probabilità di rialzo il 9 dicembre. Domani i payrolls di ottobre: consenso variabile tra le fonti (circa 40-63 mila), disoccupazione attesa al 4,2% [CNBC, 28 ott; Bloomberg, 4 nov; Yardeni, 2 nov].
+- **Regno Unito.** Decisione BoE 8-1 per +25 pb a 4,00%; inflazione di settembre al 3,5% da 3,1% di agosto, decisione attesa dal mercato. La BoE motiva la mossa con la pressione energetica "in pipeline"; il prossimo appuntamento è il 17 dicembre [Bank of England, 5 nov; Bloomberg, 5 nov].
+- **Stati Uniti.** Oggi alle 14:30 CET i payrolls di ottobre: consenso circa 59-65 mila (settembre 29 mila), disoccupazione attesa al 4,2%; ADP ha riportato +86 mila contro circa 69 mila attesi. Il mercato prezza ora circa il 66% di probabilità di rialzo Fed a dicembre, in calo dall'82% del giorno prima, dopo la tenuta del 28 ottobre a 3,75-4,00% con due dissenzienti (Cook e Hammack) a favore del rialzo. Hammack e Barkin hanno ribadito che l'inflazione è ancora troppo alta [CNBC, 5 nov; Fox Business, 4 nov; CME FedWatch via FXStreet, 5 nov; CNN, 28 ott].
 
 ## 4. Mercati
 
-- **Azionario.** Mercoledì: S&P 500 7.688,62 (+1,6%), Nasdaq Composite 25.736,51 (+1,44%), Dow 53.356,12 (+3,03%); in Europa lo Stoxx 600 ha guadagnato circa l'1,8% a 657,40 (massimo dal 26 agosto) e il DAX oltre il 2% (i due report divergono: 26.437,67 e 26.479,33), con le banche in testa. La rotazione è netta: i semiconduttori hanno perso circa il 3% (SOX) per timori su regole sui data center e sui capex AI, mentre Apple segnava un record [CNBC, 4 nov; AA, 4 nov; Bloomberg, 4 nov; BBN Times, 4 nov].
-- **Asia, giovedì (dati provvisori, intraday, [non confermato] sui livelli di chiusura).** Kospi in calo di circa 3,5-5% per la vendita sui chip, Nikkei debole (-0,5/-1,5%), Hang Seng in rialzo di circa il 3% e Shanghai positiva [investingLive, 5 nov; Bloomberg via Archyde, 5 nov].
-- **Obbligazionario.** Treasury decennale intorno al 4,88% (circa -6 pb), minimo da quasi due mesi; il calo dei rendimenti coesiste con un rialzo Fed a dicembre ancora prezzato come probabile, segnale di contraddizione tra premio a termine e politica monetaria [Bloomberg, 4 nov; Kitco, 4 nov].
+- **Azionario USA.** Giovedì Nasdaq -5,5%, S&P 500 -4,4%, Dow -3,4% (oltre 1.800 punti); circa 2,5-3,2 trilioni di dollari di capitalizzazione bruciati secondo le stime delle testate, e Nvidia ha perso quasi 450 miliardi. Il Nasdaq 100 segna -6,4% secondo un'altra fonte [CNN, 5 nov; Fox Business, 5 nov; CNBC, 5 nov].
+- **Asia, venerdì (intraday, provvisorio).** Kospi fino a -8,8% (4.911), con interruzione di 20 minuti; Nikkei tra -5% e -7%, ormai oltre il 20% sotto il massimo di giugno; SK Hynix -8/-13%, Samsung -7/-10%; TSMC tra -4% e -10% a seconda delle fonti. Giovedì l'Hang Seng aveva chiuso a 24.797 (+3,67%) [CNBC, 6 nov; TradingView, 6 nov; Investing.com, 6 nov].
+- **Europa.** Giovedì lo Stoxx 600 ha chiuso circa a 654,9 (-0,4%) e il FTSE MIB a 50.505,9 (-1,03%): l'Europa ha chiuso prima del peggio di Wall Street, quindi l'apertura di oggi tende a incorporare un gap negativo (inferenza) [Yahoo Finance, 5 nov; ANSA, 5 nov; Business Recorder, 5 nov].
+- **Obbligazionario.** Il decennale USA è sceso verso 4,82% (minimo dal 10 settembre) in fuga verso i governativi; livelli riportati tra 4,82% e 4,89% [FXStreet, 5 nov; Reuters via Investing.com, 5 nov].
 
 ## 5. Valute, energia e materie prime
 
-- **Energia.** Brent 94,62 (-8,7%) e WTI 88,12 (-8,3%) a chiusura di mercoledì, minimi dal 31 agosto; giovedì in Asia il Brent oscilla attorno a 93,6-93,9, quarta seduta consecutiva di ribasso. Iran ha annunciato un'esenzione per il transito di navi commerciali di quattro paesi, tra cui India e Cina [CNBC, 4 nov; HDFC Sky, 5 nov; Gulf News, 4 nov].
-- **Oro e dollaro.** Oro spot +3,4% mercoledì, sopra 4.000 dollari; giovedì in Asia circa 4.135 (+1,9%, massimo dal 22 ottobre). Il Dollar Index è sceso a circa 101,2-101,3, minimo dal 30 settembre, per poi recuperare parte del calo [Kitco, 4 nov; FXStreet, 4 nov; Bloomberg, 4 nov].
+- **Energia.** Brent 98,29 (+3,67) e WTI 90,52 a chiusura di giovedì; il rimbalzo cancella parte del calo di oltre l'8% del giorno prima, mentre su base settimanale il greggio resta in forte ribasso (12-15% secondo le fonti). Venerdì il Brent è tornato intorno a 100 [Reuters, 5 nov; HDFC Sky, 6 nov; BigGo Finance, 6 nov].
+- **Dollaro, metalli.** Dollar Index intorno a 101,5-101,6, vicino al minimo da fine settembre (101,21 in mattinata); yen in rafforzamento con la fuga dal rischio. Oro spot tra 4.070 e 4.100 dollari, argento 51,73 dollari, rame 6,23 dollari/libbra da 6,42: il metallo industriale segue il tono risk-off [FXStreet, 5 nov; Reuters via Global Banking & Finance, 5 nov; Index.vn, 6 nov].
 
 ## 7. Corporate e tecnologia
 
-- **Qualcomm** ha battuto le stime ma ha dato una guida debole (EPS 2,15-2,35 dollari su ricavi 10,4-11,2 miliardi, contro consenso 2,27 e 10,48), con il titolo in calo di circa il 7% dopo i conti. Il driver è la carenza di memorie, che frena i volumi smartphone mentre le HBM per server AI assorbono capacità e fanno salire i prezzi. Conseguenza: costi di componentistica in aumento per i produttori di dispositivi consumer [CNBC, 4 nov; Reuters via Investing.com, 4 nov].
+- **Qualcomm** ha battuto di poco gli utili ma ha indicato per il trimestre un EPS di 2,15-2,35 dollari contro un consenso di 2,26; il titolo ha perso circa l'11%. I ricavi data center sono 650 milioni, con obiettivo di 5 miliardi nell'anno fiscale 2027. Conseguenza: la narrativa di diversificazione dei fornitori di chip AI viene ridimensionata, e il prossimo test sarà la data dei conti Nvidia (non verificata) [CNBC, 5 nov; Yahoo Finance, 5 nov].
+
+## 8. Mondo — fatti rilevanti oltre il business
+
+- **Ebola in RDC.** L'OMS ha approvato test su due nuovi vaccini per il ceppo in circolazione; l'epidemia ha causato oltre 5.300 morti da maggio, la più grave nella storia del paese [WHO via Democracy Now, 5 nov].
+- **Yemen.** L'ONU chiede un'indagine sulla morte di un proprio collaboratore detenuto dagli Houthi; a Taiz quasi 135 mila sfollati, produzione d'acqua dimezzata e ospedali a corto di carburante e medicinali [UN News, 5 nov].
+- **Ucraina** (non confermato): il bilancio di un bombardamento russo su un centro di distribuzione di aiuti a Zaporizhzhia sarebbe salito a 42 morti, secondo la polizia locale; fonte unica non di primo livello [Substack, 5 nov].
 
 ## 9. Implicazioni per il business
 
-- **Costo del capitale:** il calo dei rendimenti USA dà un respiro, ma con Fed, BCE e BoE su traiettoria di rialzo il rifinanziamento resta caro; i payrolls di domani possono invertire il movimento.
-- **Costi di input:** Brent sotto 95 allenta i budget energetici, ma il ribasso poggia su speranze diplomatiche con Hormuz ancora vincolata; evitare di bloccare ipotesi di normalizzazione. Memorie e chip: prezzi in salita per l'elettronica.
-- **Esposizione valutaria:** dollaro più debole e sterlina potenzialmente sostenuta dal rialzo BoE; rivedere coperture sulle esposizioni in USD e GBP.
+- **Costo del capitale e valutazioni:** la correzione dei titoli AI restringe le finestre per IPO e raccolta equity del settore, mentre BoE e Fed restano in modalità rialzo; rinviare emissioni non urgenti e verificare le clausole di covenant legate a valutazioni di mercato.
+- **Continuità operativa:** Hormuz resta rischio fisico, non solo di prezzo; le aziende con forniture energetiche o spedizioni nel Golfo dovrebbero rivedere i piani di rotta e di scorta, ipotizzando un Brent sopra 100 come base e non come coda.
+- **Esposizione valutaria:** sterlina sostenuta dal rialzo BoE e yen in rafforzamento con il risk-off: rivedere le coperture su GBP e JPY e le ipotesi di cambio nei budget di fine anno.
 
 ## 10. Italia in breve
 
-- **Borsa e spread.** Piazza Affari ha guadagnato circa il 2% con Intesa e UniCredit in testa e difesa in calo (Leonardo, Avio); lo spread BTP-Bund ha chiuso a 104,4 punti, dai 113 dell'apertura, con il rendimento del decennale sotto il 4,35% [ANSA, 4 nov; Borsa Italiana/Teleborsa, 4 nov; Milano Finanza, 4 nov].
-- **Manovra.** Le audizioni sulla legge di bilancio partono lunedì 9 novembre; il ministro Giorgetti sarà in commissione giovedì 12 alle 16:00 [ANSA, 4 nov].
+- **Borsa.** Il FTSE MIB ha chiuso giovedì a 50.505,9 (-1,03%), con STMicroelectronics peggiore del listino, banche in vendita e Tenaris miglior titolo; il valore di chiusura dello spread BTP-Bund non è confermato (tra 104 e 108 punti base nelle fonti intraday) [ANSA, 5 nov; Money.it, 5 nov; Soldionline, 5 nov].
+- **Tesoro.** Il MEF ha tenuto il 5 novembre un'operazione di riacquisto di BTP e CCTeu per massimi 5 miliardi, riservata agli specialisti, con regolamento il 9 novembre; l'esito non è ancora noto [Teleborsa/ANSA, 5 nov].
 
 ## 11. Agenda — prossime 72 ore
 
-- **Gio 5 nov:** decisione Bank of England (12:00 GMT, attesa +25 pb a 4,00%); sussidi di disoccupazione e produttività USA; conti di Toyota e Sony; intervento di Hammack (Fed) [FXStreet; Newsquawk, 2 nov].
-- **Ven 6 nov:** payrolls USA di ottobre (14:30 CET; disoccupazione attesa 4,2%); interventi di Bowman (Fed) e Lane (BCE) [Yardeni, 2 nov; Roboforex, 2 nov].
-- **Lun 9 nov:** inizio audizioni sulla manovra in Italia; **gio 12 nov:** Giorgetti in commissione [ANSA, 4 nov].
-- **Fuori finestra, da monitorare:** 10 novembre, scadenza della sospensione dell'azione Section 301 sul settore marittimo USA, con proposta USTR di proroga al 9 gennaio 2027 [fonte secondaria, da verificare su fonte ufficiale]; Fed 8-9 dicembre.
+- **Ven 6 nov:** payrolls USA di ottobre (14:30 CET; consenso 59-65 mila, disoccupazione 4,2%) [CNBC, 5 nov].
+- **Lun 9 nov:** CPI e PPI di ottobre in Cina (CPI atteso 0,8% da 0,9%, PPI atteso 5,2% da 5,0%); scadenza alle 23:59 ET delle 178 esclusioni dai dazi Section 301 sulla Cina e della sospensione dei port fees su navi cinesi, senza un avviso USTR di proroga al 2 novembre; inizio audizioni sulla manovra in Italia [Lighthill, 2 nov; Lundgreen, 5 nov; ANSA, 4 nov].
+- **Fuori finestra:** 10 nov CPI USA (le fonti divergono sulla data); 10-11 nov colloqui Abu Dhabi su Ucraina; 11 nov asta BOT e 12 nov asta BTP; 12 nov audizione di Giorgetti; Bank of England 17 dicembre [FedRateCalc; Schaeffer's, 5 nov; Al Jazeera, 5 nov].
 
 ## 12. Market Mover del giorno
 
-**La decisione della Bank of England alle 12:00 GMT,** primo test dopo l'inflazione eurozona al 4%. Un rialzo in linea con una guidance prudente confermerebbe lo scenario di tassi alti più a lungo; un voto diviso o un tono dovish rafforzerebbe la narrativa di fine ciclo e la presa del rally di ieri.
+**I payrolls USA delle 14:30 CET, con l'onda d'urto del selloff AI sullo sfondo.** Un dato forte (sopra 100 mila) riporterebbe in alto i rendimenti e la probabilità di rialzo Fed a dicembre, aggravando la correzione dei titoli growth; un dato debole sotto 40 mila alimenterebbe lo scenario di raffreddamento e sosterrebbe i governativi.
 
 ## 13. Risk Sentiment
 
-**🟡 Cautious Optimism — rally risk-on con segnali contraddittori.** Il VIX è sceso a circa 18,3 da quasi 22 (Schwab, mattina di mercoledì), il decennale è a 4,88% e il Dow ha registrato il miglior giorno dell'anno; ma l'oro sopra 4.000, la vendita dei semiconduttori (SOX -3%, Kospi -3,5%/-5%) e l'inflazione al 4% in eurozona mostrano che la rotazione è politica e di prezzo dell'energia, non di fondamentali. La contraddizione più rilevante: tassi in calo con rialzi Fed prezzati all'80%+ [Schwab, 4 nov; Bloomberg, 4 nov; Kitco, 4 nov].
-
-## 14. Sotto il radar
-
-- **Possibile moratoria sui data center in Texas.** Alcuni report collegano parte della vendita sui titoli AI alla promessa di una moratoria sui nuovi data center in Texas; se confermata, sarebbe un primo vincolo regolatorio statale sulla capacità AI **[non confermato: fonte singola, Stocktwits]** [Stocktwits, 4 nov].
+**🔴 Risk-off — fuga dal rischio concentrata sul tech.** Nasdaq -5,5%, indice dei chip -12,3%, Kospi fermato da circuit breaker, decennale a 4,82% (minimo dal 10 settembre), oro sopra 4.070 e yen in rafforzamento; il VIX non è disponibile al momento della redazione. Il segnale contraddittorio: i rendimenti scendono mentre il mercato continua a prezzare circa il 66% di rialzo Fed a dicembre, e il Brent risale verso 100 per Hormuz, quindi la tenuta di domani dipende più dai payrolls che dal sentiment [CNBC, 5 nov; FXStreet, 5 nov; Index.vn, 6 nov].
