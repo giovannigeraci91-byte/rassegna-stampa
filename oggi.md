@@ -37,7 +37,7 @@
 
 ## 7. Corporate e tecnologia
 
-- **Chip americani, la Cina diventa un rischio legale.** La procuratrice generale della California, Rob Bonta, ha inviato una richiesta di documenti a Nvidia. L'inchiesta vuole capire se la società o l'ex CEO Huang abbiano aiutato la Cina a ottenere chip avanzati, e se abbiano informato male gli investitori [CNBC, 19 nov]. Lo stesso giorno AMD ha perso circa il 7,7% dopo un report dello short seller Hunterbrook, che sostiene che oltre il 20% dei ricavi provenga da clienti in Cina e Hong Kong. AMD respinge le accuse [CNBC, 19 nov; Yahoo Finance, 19 nov]. Il rischio di export control non riguarda più solo Nvidia: è diventato un fattore di valutazione per tutto il settore.
+- **Chip americani, la Cina diventa un rischio legale.** Il procuratore generale della California, Rob Bonta, ha inviato una richiesta di documenti a Nvidia. L'inchiesta vuole capire se la società o l'ex CEO Huang abbiano aiutato la Cina a ottenere chip avanzati, e se abbiano informato male gli investitori [CNBC, 19 nov]. Lo stesso giorno AMD ha perso circa il 7,7% dopo un report dello short seller Hunterbrook, che sostiene che oltre il 20% dei ricavi provenga da clienti in Cina e Hong Kong. AMD respinge le accuse [CNBC, 19 nov; Yahoo Finance, 19 nov]. Il rischio di export control non riguarda più solo Nvidia: è diventato un fattore di valutazione per tutto il settore.
 - **Anthropic, debutto forte ma in calo dai massimi.** Il titolo ha aperto a 111,50 dollari, il 34% sopra il prezzo di collocamento di 83, e ha chiuso a 97,17 (+17%), per una capitalizzazione di poco inferiore a 1.800 miliardi [Yahoo Finance, 19 nov; CBC, 19 nov]. Nel giorno di una vendita generale, la domanda per il nuovo titolo c'è stata. Ma c'è il sospetto che una parte dei capitali sia arrivata vendendo altri titoli AI.
 
 ## 8. Mondo — fatti rilevanti oltre il business
@@ -47,7 +47,7 @@
 ## 9. Implicazioni per il business
 
 - **Costo del capitale.** Con il 10 anni americano sopra il 5% e il rialzo di dicembre ormai prezzato, il calo dell'azionario non porta tassi più bassi. Chi deve raccogliere capitale nel 2027 dovrebbe pianificare con tassi in salita, non in discesa.
-- **Esposizione valutaria.** Euro sotto 1,10 e yen vicino a 160 favoriscono chi esporta in dollari, ma aumentano il costo degli input in dollari, dall'energia ai componenti. Con un possibile intervento della Banca del Giappone, le coperture sullo yen vanno riviste: un movimento brusco all'indietro è ormai uno scenario concreto.
+- **Esposizione valutaria.** Euro sotto 1,10 e yen vicino a 160 favoriscono chi esporta in dollari, ma aumentano il costo degli input in dollari, dall'energia ai componenti. Con un possibile intervento delle autorità giapponesi sul cambio, le coperture sullo yen vanno riviste: un movimento brusco all'indietro è ormai uno scenario concreto.
 - **Compliance sulla Cina.** Le inchieste su Nvidia e il report su AMD mostrano che il controllo si estende ai clienti finali, al firmware e alla quota di ricavi in Cina. Le aziende che vendono tecnologia o capacità di calcolo in Asia dovrebbero verificare subito chi sono davvero i loro clienti.
 
 ## 10. Italia in breve
